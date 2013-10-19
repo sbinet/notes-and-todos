@@ -35,4 +35,5 @@ notes about stuff
 - [binc](https://github.com/ugorji/go/tree/master/codec)
 - [msgpack](https://github.com/msgpack/msgpack-go)
 - [drillbit](https://github.com/JohannesEbke/drillbit)
-
+- [capnproto](http://kentonv.github.io/capnproto/)
+- [protobuf](https://code.google.com/p/protobuf/)
