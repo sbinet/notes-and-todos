@@ -31,6 +31,7 @@ notes about stuff
 - [GYP](https://code.google.com/p/gyp/)
 - [tup](https://github.com/gittup/tup)
 - [go build](https://code.google.com/p/go/source/browse/src/cmd/go/build.go)
+- [fubsy](http://fubsy.gerg.ca/)
 
 ## serialization
 
