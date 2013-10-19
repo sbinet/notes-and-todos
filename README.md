@@ -21,7 +21,7 @@ notes about stuff
 ## terminal/line-edit
 
 - [linenoise](https://github.com/antirez/linenoise)
-
+- [liner](https://github.com/sbinet/liner)
 
 ## build systems
 
