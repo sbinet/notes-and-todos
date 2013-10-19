@@ -34,3 +34,5 @@ notes about stuff
 
 - [binc](https://github.com/ugorji/go/tree/master/codec)
 - [msgpack](https://github.com/msgpack/msgpack-go)
+- [drillbit](https://github.com/JohannesEbke/drillbit)
+
