@@ -37,6 +37,7 @@ notes about stuff
 - [msgpack](https://github.com/msgpack/msgpack-go)
 - [drillbit](https://github.com/JohannesEbke/drillbit)
 - [capnproto](http://kentonv.github.io/capnproto/)
+- [go-capnproto](https://github.com/jmckaskill/go-capnproto)
 - [protobuf](https://code.google.com/p/protobuf/)
 - [gobin](https://code.google.com/p/gobin/)
 
