@@ -22,6 +22,7 @@ notes about stuff
 
 - [linenoise](https://github.com/antirez/linenoise)
 - [liner](https://github.com/sbinet/liner)
+- [gobs/cmd](https://github.com/gobs/cmd)
 
 ## build systems
 
@@ -37,3 +38,5 @@ notes about stuff
 - [drillbit](https://github.com/JohannesEbke/drillbit)
 - [capnproto](http://kentonv.github.io/capnproto/)
 - [protobuf](https://code.google.com/p/protobuf/)
+- [gobin](https://code.google.com/p/gobin/)
+
