@@ -44,3 +44,8 @@ notes about stuff
 - [protobuf](https://code.google.com/p/protobuf/)
 - [gobin](https://code.google.com/p/gobin/)
 
+## checkpointing, VMs, containers
+
+- [dmtcp](http://dmtcp.sourceforge.net/)
+- [criu](http://criu.org/Main_Page)
+- [docker](http://www.docker.io/)
