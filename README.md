@@ -49,3 +49,5 @@ notes about stuff
 - [dmtcp](http://dmtcp.sourceforge.net/)
 - [criu](http://criu.org/Main_Page)
 - [docker](http://www.docker.io/)
+- [go-docker client](https://github.com/fsouza/go-dockerclient)
+
