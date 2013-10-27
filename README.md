@@ -33,6 +33,7 @@ notes about stuff
 - [tup](https://github.com/gittup/tup)
 - [go build](https://code.google.com/p/go/source/browse/src/cmd/go/build.go)
 - [fubsy](http://fubsy.gerg.ca/)
+- [repobuild](https://github.com/chrisvana/repobuild)
 
 ## serialization
 
