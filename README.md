@@ -43,6 +43,7 @@ notes about stuff
 - [go-capnproto](https://github.com/jmckaskill/go-capnproto)
 - [protobuf](https://code.google.com/p/protobuf/)
 - [gobin](https://code.google.com/p/gobin/)
+- [parquet](https://github.com/parquet/parquet-format)
 
 ## checkpointing, VMs, containers
 
