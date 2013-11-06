@@ -35,6 +35,7 @@ notes about stuff
 - [gogo](https://github.com/davecheney/gogo)
 - [fubsy](http://fubsy.gerg.ca/)
 - [repobuild](https://github.com/chrisvana/repobuild)
+- [gobot](https://github.com/kr/gobot)
 
 ## serialization
 
