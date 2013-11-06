@@ -54,8 +54,7 @@ notes about stuff
 - [criu](http://criu.org/Main_Page)
 - [docker](http://www.docker.io/)
 - [go-docker client](https://github.com/fsouza/go-dockerclient)
-- [docker+openstack](http://www.sebastien-han.fr/blog/2013/10/31/build-a-paas-zone-within-your-openstack-cloud/?utm_source=Docker+News&utm_campaign=a3c24fc878-Docker_0_5_0_7_18_2013&utm_medium=email&utm_term=0_c0995b6e8f-a3c24fc878-235713049)
-
+- [docker+openstack](http://www.sebastien-han.fr/blog/2013/10/31/build-a-paas-zone-within-your-openstack-cloud)
 
 ## parsers
 
