@@ -55,3 +55,6 @@ notes about stuff
 - [docker](http://www.docker.io/)
 - [go-docker client](https://github.com/fsouza/go-dockerclient)
 
+## parsers
+
+- [ql](https://github.com/cznic/ql)
