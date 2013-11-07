@@ -55,7 +55,17 @@ notes about stuff
 - [docker](http://www.docker.io/)
 - [go-docker client](https://github.com/fsouza/go-dockerclient)
 - [docker+openstack](http://www.sebastien-han.fr/blog/2013/10/31/build-a-paas-zone-within-your-openstack-cloud)
-
+- [golab](https://github.com/mb0/lab)
+- [ceph+juju](http://ceph.com/dev-notes/deploying-ceph-with-juju/)
+- 
 ## parsers
 
 - [ql](https://github.com/cznic/ql)
+
+## C/S
+
+- [neural-go](https://github.com/schuyler/neural-go)
+- [neural-nwk](http://natureofcode.com/book/chapter-10-neural-networks/)
+- [c/s in real life](https://github.com/jcb/CSIRL)
+- [data science](http://blog.zipfianacademy.com/post/46864003608/a-practical-intro-to-data-science)
+- [navier stokes](http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/)
