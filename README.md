@@ -73,3 +73,4 @@ notes about stuff
 ## go libs
 
 - [req http](https://github.com/franela/goreq)
+- [megajson](https://github.com/benbjohnson/megajson) (for the ast generation)
