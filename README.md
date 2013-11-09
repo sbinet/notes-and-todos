@@ -69,3 +69,7 @@ notes about stuff
 - [c/s in real life](https://github.com/jcb/CSIRL)
 - [data science](http://blog.zipfianacademy.com/post/46864003608/a-practical-intro-to-data-science)
 - [navier stokes](http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/)
+
+## go libs
+
+- [req http](https://github.com/franela/goreq)
