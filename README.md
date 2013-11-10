@@ -75,3 +75,4 @@ notes about stuff
 
 - [req http](https://github.com/franela/goreq)
 - [megajson](https://github.com/benbjohnson/megajson) (for the ast generation)
+- [pipe](https://launchpad.net/pipe)
