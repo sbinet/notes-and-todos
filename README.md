@@ -55,9 +55,10 @@ notes about stuff
 - [docker](http://www.docker.io/)
 - [go-docker client](https://github.com/fsouza/go-dockerclient)
 - [docker+openstack](http://www.sebastien-han.fr/blog/2013/10/31/build-a-paas-zone-within-your-openstack-cloud)
+- [docker-devenv](https://github.com/relateiq/docker_public)
 - [golab](https://github.com/mb0/lab)
 - [ceph+juju](http://ceph.com/dev-notes/deploying-ceph-with-juju/)
-- 
+
 ## parsers
 
 - [ql](https://github.com/cznic/ql)
