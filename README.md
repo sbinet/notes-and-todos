@@ -77,3 +77,4 @@ notes about stuff
 - [megajson](https://github.com/benbjohnson/megajson) (for the ast generation)
 - [pipe](https://launchpad.net/pipe)
 - [tomb](https://launchpad.net/tomb)
+- [fatchan](https://github.com/kylelemons/fatchan)
