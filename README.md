@@ -79,3 +79,4 @@ notes about stuff
 - [tomb](https://launchpad.net/tomb)
 - [fatchan](https://github.com/kylelemons/fatchan)
 - [gobots (robotics)](http://gobot.io/)
+- [cobra (cli)](https://github.com/spf13/cobra)
