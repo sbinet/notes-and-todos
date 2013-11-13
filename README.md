@@ -78,3 +78,4 @@ notes about stuff
 - [pipe](https://launchpad.net/pipe)
 - [tomb](https://launchpad.net/tomb)
 - [fatchan](https://github.com/kylelemons/fatchan)
+- [gobots (robotics)](http://gobot.io/)
