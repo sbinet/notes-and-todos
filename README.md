@@ -56,6 +56,7 @@ notes about stuff
 - [go-docker client](https://github.com/fsouza/go-dockerclient)
 - [docker+openstack](http://www.sebastien-han.fr/blog/2013/10/31/build-a-paas-zone-within-your-openstack-cloud)
 - [docker-devenv](https://github.com/relateiq/docker_public)
+- [docker-cluster](https://github.com/globocom/docker-cluster)
 - [golab](https://github.com/mb0/lab)
 - [ceph+juju](http://ceph.com/dev-notes/deploying-ceph-with-juju/)
 
