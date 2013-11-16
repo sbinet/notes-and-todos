@@ -81,3 +81,4 @@ notes about stuff
 - [fatchan](https://github.com/kylelemons/fatchan)
 - [gobots (robotics)](http://gobot.io/)
 - [cobra (cli)](https://github.com/spf13/cobra)
+- [webapp](https://github.com/Unknwon/build-web-application-with-golang_EN)
