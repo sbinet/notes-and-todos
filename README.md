@@ -15,6 +15,7 @@ notes about stuff
 - [neko](http://nekovm.org/lua)
 - [golightly](https://github.com/feyeleanor/GoLightly)
 - [zerovm](https://github.com/zerovm/zerovm)
+- [py-byterun](https://github.com/nedbat/byterun)
 
 ## go-bric
 
