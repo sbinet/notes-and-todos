@@ -73,6 +73,7 @@ notes about stuff
 - [data science](http://blog.zipfianacademy.com/post/46864003608/a-practical-intro-to-data-science)
 - [navier stokes](http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/)
 - [deep learning](http://markus.com/deep-learning-101/)
+- [python MC](http://www.chrisstucchio.com/blog/2013/basic_income_vs_basic_job.html)
 
 ## go libs
 
