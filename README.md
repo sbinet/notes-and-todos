@@ -76,6 +76,7 @@ notes about stuff
 - [navier stokes](http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/)
 - [deep learning](http://markus.com/deep-learning-101/)
 - [python MC](http://www.chrisstucchio.com/blog/2013/basic_income_vs_basic_job.html)
+- [static libs](http://eli.thegreenplace.net/2012/08/13/how-statically-linked-programs-run-on-linux/)
 
 ## go libs
 
