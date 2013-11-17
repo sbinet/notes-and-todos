@@ -16,6 +16,7 @@ notes about stuff
 - [golightly](https://github.com/feyeleanor/GoLightly)
 - [zerovm](https://github.com/zerovm/zerovm)
 - [py-byterun](https://github.com/nedbat/byterun)
+- [go-twik](http://blog.labix.org/2013/07/16/twik-a-tiny-language-for-go)
 
 ## go-bric
 
