@@ -84,3 +84,4 @@ notes about stuff
 - [cobra (cli)](https://github.com/spf13/cobra)
 - [webapp](https://github.com/Unknwon/build-web-application-with-golang_EN)
 - [uwsgi gccgo plugin](https://github.com/unbit/uwsgi/tree/master/plugins/gccgo)
+- [ipython/go kernel](https://github.com/takluyver/igo)
