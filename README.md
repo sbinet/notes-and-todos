@@ -17,6 +17,7 @@ notes about stuff
 - [zerovm](https://github.com/zerovm/zerovm)
 - [py-byterun](https://github.com/nedbat/byterun)
 - [go-twik](http://blog.labix.org/2013/07/16/twik-a-tiny-language-for-go)
+- [go-lisp](https://github.com/bobappleyard/golisp)
 
 ## go-bric
 
