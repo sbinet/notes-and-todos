@@ -94,6 +94,7 @@ notes about stuff
 - [uwsgi gccgo plugin](https://github.com/unbit/uwsgi/tree/master/plugins/gccgo)
 - [ipython/go kernel](https://github.com/takluyver/igo)
 - [go-plugins](https://github.com/progrium/go-plugins)
+- [gox (crosscompile)](https://github.com/mitchellh/gox)
 
 ## tools
 
