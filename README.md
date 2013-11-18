@@ -18,6 +18,7 @@ notes about stuff
 - [py-byterun](https://github.com/nedbat/byterun)
 - [go-twik](http://blog.labix.org/2013/07/16/twik-a-tiny-language-for-go)
 - [go-lisp](https://github.com/bobappleyard/golisp)
+- [embedded go-lisp (kakapo)](https://github.com/bytbox/kakapo)
 
 ## go-bric
 
