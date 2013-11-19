@@ -78,6 +78,7 @@ notes about stuff
 - [c/s in real life](https://github.com/jcb/CSIRL)
 - [data science](http://blog.zipfianacademy.com/post/46864003608/a-practical-intro-to-data-science)
 - [navier stokes](http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/)
+- [go svm, forests](https://github.com/ryanbressler/CloudForest)
 - [deep learning](http://markus.com/deep-learning-101/)
 - [python MC](http://www.chrisstucchio.com/blog/2013/basic_income_vs_basic_job.html)
 - [static libs](http://eli.thegreenplace.net/2012/08/13/how-statically-linked-programs-run-on-linux/)
