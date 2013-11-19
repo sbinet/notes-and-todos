@@ -51,6 +51,7 @@ notes about stuff
 - [protobuf](https://code.google.com/p/protobuf/)
 - [gobin](https://code.google.com/p/gobin/)
 - [parquet](https://github.com/parquet/parquet-format)
+- [c-gob](https://code.google.com/p/libgob/)
 
 ## checkpointing, VMs, containers
 
