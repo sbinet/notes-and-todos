@@ -97,6 +97,8 @@ notes about stuff
 - [ipython/go kernel](https://github.com/takluyver/igo)
 - [go-plugins](https://github.com/progrium/go-plugins)
 - [gox (crosscompile)](https://github.com/mitchellh/gox)
+- [go-zappy](https://github.com/cznic/zappy)
+- 
 
 ## tools
 
