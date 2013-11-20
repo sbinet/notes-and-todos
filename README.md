@@ -98,7 +98,7 @@ notes about stuff
 - [go-plugins](https://github.com/progrium/go-plugins)
 - [gox (crosscompile)](https://github.com/mitchellh/gox)
 - [go-zappy](https://github.com/cznic/zappy)
-- 
+- [go-snappy](https://code.google.com/p/snappy-go/)
 
 ## tools
 
