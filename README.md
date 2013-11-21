@@ -100,6 +100,7 @@ notes about stuff
 - [gox (crosscompile)](https://github.com/mitchellh/gox)
 - [go-zappy](https://github.com/cznic/zappy)
 - [go-snappy](https://code.google.com/p/snappy-go/)
+- [go-ggplot](https://github.com/vdobler/plot)
 
 ## tools
 
