@@ -82,6 +82,7 @@ notes about stuff
 - [deep learning](http://markus.com/deep-learning-101/)
 - [python MC](http://www.chrisstucchio.com/blog/2013/basic_income_vs_basic_job.html)
 - [static libs](http://eli.thegreenplace.net/2012/08/13/how-statically-linked-programs-run-on-linux/)
+- [.so relocations](http://www.mindfruit.co.uk/2012/06/relocations-relocations.html)
 
 ## go libs
 
