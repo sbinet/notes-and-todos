@@ -92,6 +92,7 @@ notes about stuff
 - [tomb](https://launchpad.net/tomb)
 - [fatchan](https://github.com/kylelemons/fatchan)
 - [gobots (robotics)](http://gobot.io/)
+- [gobots (battle game)](https://github.com/tanema/botbattle)
 - [cobra (cli)](https://github.com/spf13/cobra)
 - [webapp](https://github.com/Unknwon/build-web-application-with-golang_EN)
 - [uwsgi gccgo plugin](https://github.com/unbit/uwsgi/tree/master/plugins/gccgo)
