@@ -84,6 +84,7 @@ notes about stuff
 - [static libs](http://eli.thegreenplace.net/2012/08/13/how-statically-linked-programs-run-on-linux/)
 - [.so relocations](http://www.mindfruit.co.uk/2012/06/relocations-relocations.html)
 - [PIC .so](http://eli.thegreenplace.net/2011/11/03/position-independent-code-pic-in-shared-libraries/)
+- [c-plugins](http://eli.thegreenplace.net/2012/08/24/plugins-in-c/)
 
 ## go libs
 
