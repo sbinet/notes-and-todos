@@ -83,6 +83,7 @@ notes about stuff
 - [python MC](http://www.chrisstucchio.com/blog/2013/basic_income_vs_basic_job.html)
 - [static libs](http://eli.thegreenplace.net/2012/08/13/how-statically-linked-programs-run-on-linux/)
 - [.so relocations](http://www.mindfruit.co.uk/2012/06/relocations-relocations.html)
+- [PIC .so](http://eli.thegreenplace.net/2011/11/03/position-independent-code-pic-in-shared-libraries/)
 
 ## go libs
 
