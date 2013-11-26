@@ -108,6 +108,7 @@ notes about stuff
 - [go-snappy](https://code.google.com/p/snappy-go/)
 - [go-ggplot](https://github.com/vdobler/plot)
 - [go-kv database](https://github.com/cznic/kv)
+- [go tiedot NoSQL db](https://github.com/HouzuoGuo/tiedot)
 
 ## tools
 
