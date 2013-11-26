@@ -107,6 +107,7 @@ notes about stuff
 - [go-zappy](https://github.com/cznic/zappy)
 - [go-snappy](https://code.google.com/p/snappy-go/)
 - [go-ggplot](https://github.com/vdobler/plot)
+- [go-kv database](https://github.com/cznic/kv)
 
 ## tools
 
