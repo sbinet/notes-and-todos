@@ -71,7 +71,8 @@ notes about stuff
 ## parsers
 
 - [ql](https://github.com/cznic/ql)
-
+- [otto (parser for js)](https://github.com/robertkrimen/otto)
+- 
 ## C/S
 
 - [neural-go](https://github.com/schuyler/neural-go)
