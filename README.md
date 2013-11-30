@@ -20,6 +20,7 @@ notes about stuff
 - [go-lisp](https://github.com/bobappleyard/golisp)
 - [go-ssa-interpreter](https://gist.github.com/elliott5/7578605)
 - [embedded go-lisp (kakapo)](https://github.com/bytbox/kakapo)
+- [go-rvm](https://github.com/jteeuwen/rvm)
 
 ## go-bric
 
