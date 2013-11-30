@@ -112,6 +112,7 @@ notes about stuff
 - [go-kv database](https://github.com/cznic/kv)
 - [go tiedot NoSQL db](https://github.com/HouzuoGuo/tiedot)
 - [go someutils (POSIX-like utils)](https://github.com/laher/someutils)
+- [go-shlex](https://github.com/flynn/go-shlex)
 
 ## tools
 
