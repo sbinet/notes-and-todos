@@ -74,7 +74,8 @@ notes about stuff
 
 - [ql](https://github.com/cznic/ql)
 - [otto (parser for js)](https://github.com/robertkrimen/otto)
-- 
+- [ragel](https://github.com/antage/ragel-go/tree/golang-6/ragel)
+
 ## C/S
 
 - [neural-go](https://github.com/schuyler/neural-go)
