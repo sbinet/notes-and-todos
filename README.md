@@ -117,6 +117,7 @@ notes about stuff
 - [go someutils (POSIX-like utils)](https://github.com/laher/someutils)
 - [go-shlex](https://github.com/flynn/go-shlex)
 - [go-coroutine](https://github.com/PuerkitoBio/gocoro)
+- [go-shh (proc/sys)](https://github.com/freeformz/shh)
 
 ## tools
 
