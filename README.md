@@ -122,3 +122,8 @@ notes about stuff
 ## tools
 
 - [github forks](http://forked.yannick.io/)
+
+## packaging
+
+- [guix](http://www.gnu.org/software/guix/manual/guix.pdf)
+- 
