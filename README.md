@@ -118,6 +118,7 @@ notes about stuff
 - [go-shlex](https://github.com/flynn/go-shlex)
 - [go-coroutine](https://github.com/PuerkitoBio/gocoro)
 - [go-shh (proc/sys)](https://github.com/freeformz/shh)
+- [go-mesos](https://github.com/mesosphere/mesos-go)
 - [go-metrix](https://github.com/dynport/metrix)
 
 ## tools
