@@ -120,6 +120,7 @@ notes about stuff
 - [go-shh (proc/sys)](https://github.com/freeformz/shh)
 - [go-mesos](https://github.com/mesosphere/mesos-go)
 - [go-metrix](https://github.com/dynport/metrix)
+- [godoc2md](https://github.com/davecheney/godoc2md)
 
 ## tools
 
