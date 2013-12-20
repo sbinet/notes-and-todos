@@ -65,6 +65,7 @@ notes about stuff
 - [docker+openstack](http://www.sebastien-han.fr/blog/2013/10/31/build-a-paas-zone-within-your-openstack-cloud)
 - [docker-devenv](https://github.com/relateiq/docker_public)
 - [docker-cluster](https://github.com/globocom/docker-cluster)
+- [dockit](https://github.com/benschw/dockit)
 - [docker-codecube](http://hmarr.com/2013/oct/16/codecube-runnable-gists/)
 - [nix-docker](https://github.com/zefhemel/nix-docker)
 - [golab](https://github.com/mb0/lab)
