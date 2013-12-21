@@ -123,6 +123,7 @@ notes about stuff
 - [go-metrix](https://github.com/dynport/metrix)
 - [godoc2md](https://github.com/davecheney/godoc2md)
 - [go-poller](https://github.com/davecheney/poller)
+- [wishful (monads)](https://github.com/SimonRichardson/wishful)
 - 
 ## tools
 
