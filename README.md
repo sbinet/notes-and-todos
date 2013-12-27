@@ -125,6 +125,7 @@ notes about stuff
 - [godoc2md](https://github.com/davecheney/godoc2md)
 - [go-poller](https://github.com/davecheney/poller)
 - [wishful (monads)](https://github.com/SimonRichardson/wishful)
+- [ar](https://github.com/nightlyone/ar)
 - 
 ## tools
 
