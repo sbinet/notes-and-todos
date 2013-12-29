@@ -60,6 +60,7 @@ notes about stuff
 
 - [dmtcp](http://dmtcp.sourceforge.net/)
 - [criu](http://criu.org/Main_Page)
+- [autodock](https://github.com/cholcombe973/autodock)
 - [docker](http://www.docker.io/)
 - [go-docker client](https://github.com/fsouza/go-dockerclient)
 - [dockerclient](https://github.com/samalba/dockerclient)
