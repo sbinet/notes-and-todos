@@ -134,6 +134,10 @@ notes about stuff
 - [multitick](https://github.com/VividCortex/multitick)
 - [fn](https://github.com/tobia/fn)
 - 
+
+## sci-libs
+- [dataframe](https://github.com/akualab/dataframe)
+
 ## tools
 
 - [github forks](http://forked.yannick.io/)
