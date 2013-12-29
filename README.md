@@ -128,6 +128,7 @@ notes about stuff
 - [wishful (monads)](https://github.com/SimonRichardson/wishful)
 - [ar](https://github.com/nightlyone/ar)
 - [gopark](https://github.com/mijia/gopark)
+- [goloop](http://godoc.org/git.tideland.biz/goas/loop)
 - 
 ## tools
 
