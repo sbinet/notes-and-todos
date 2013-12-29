@@ -62,6 +62,7 @@ notes about stuff
 - [criu](http://criu.org/Main_Page)
 - [docker](http://www.docker.io/)
 - [go-docker client](https://github.com/fsouza/go-dockerclient)
+- [dockerclient](https://github.com/samalba/dockerclient)
 - [docker+openstack](http://www.sebastien-han.fr/blog/2013/10/31/build-a-paas-zone-within-your-openstack-cloud)
 - [docker-devenv](https://github.com/relateiq/docker_public)
 - [docker-cluster](https://github.com/globocom/docker-cluster)
