@@ -127,6 +127,7 @@ notes about stuff
 - [go-poller](https://github.com/davecheney/poller)
 - [wishful (monads)](https://github.com/SimonRichardson/wishful)
 - [ar](https://github.com/nightlyone/ar)
+- [gopark](https://github.com/mijia/gopark)
 - 
 ## tools
 
