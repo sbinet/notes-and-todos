@@ -130,6 +130,7 @@ notes about stuff
 - [gopark](https://github.com/mijia/gopark)
 - [goloop](http://godoc.org/git.tideland.biz/goas/loop)
 - [multitick](https://github.com/VividCortex/multitick)
+- [fn](https://github.com/tobia/fn)
 - 
 ## tools
 
