@@ -135,6 +135,8 @@ notes about stuff
 ## tools
 
 - [github forks](http://forked.yannick.io/)
+- [gh](http://owenou.com/2013/12/22/fast-github-command-line-client-written-in-go.html)
+- 
 
 ## packaging
 
