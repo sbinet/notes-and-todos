@@ -129,6 +129,7 @@ notes about stuff
 - [ar](https://github.com/nightlyone/ar)
 - [gopark](https://github.com/mijia/gopark)
 - [goloop](http://godoc.org/git.tideland.biz/goas/loop)
+- [multitick](https://github.com/VividCortex/multitick)
 - 
 ## tools
 
