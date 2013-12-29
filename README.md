@@ -137,6 +137,7 @@ notes about stuff
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
+- [py-d3](http://jakevdp.github.io/blog/2013/12/19/a-d3-viewer-for-matplotlib/)
 
 ## tools
 
