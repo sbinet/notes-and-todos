@@ -145,7 +145,7 @@ notes about stuff
 
 - [github forks](http://forked.yannick.io/)
 - [gh](http://owenou.com/2013/12/22/fast-github-command-line-client-written-in-go.html)
-- 
+- [gostatus](https://github.com/shurcooL/gostatus)
 
 ## packaging
 
