@@ -22,6 +22,7 @@ notes about stuff
 - [go-ssa-interpreter](https://gist.github.com/elliott5/7578605)
 - [embedded go-lisp (kakapo)](https://github.com/bytbox/kakapo)
 - [go-rvm](https://github.com/jteeuwen/rvm)
+- [mini-llvm](https://github.com/intelfx/Homework_2011)
 
 ## go-bric
 
