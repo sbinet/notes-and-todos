@@ -140,6 +140,7 @@ notes about stuff
 - [dataframe](https://github.com/akualab/dataframe)
 - [py-d3](http://jakevdp.github.io/blog/2013/12/19/a-d3-viewer-for-matplotlib/)
 - [py-vincent-vega](https://github.com/wrobstory/vincent)
+- [go-3d](https://github.com/ungerik/go3d)
 
 ## tools
 
