@@ -135,6 +135,8 @@ notes about stuff
 - [multitick](https://github.com/VividCortex/multitick)
 - [fn](https://github.com/tobia/fn)
 - [go-pprof](https://github.com/remyoudompheng/go-misc/tree/master/pprof)
+- [go-service](https://bitbucket.org/kardianos/service/src)
+- [go-respawn,go-forever](https://github.com/gwoo/goforever)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
