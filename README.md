@@ -98,6 +98,7 @@ notes about stuff
 - [ELF map](https://code.google.com/p/corkami/wiki/ELF101)
 - [go-c-code w/o cgo](http://dave.cheney.net/2013/09/07/how-to-include-c-code-in-your-go-package)
 - [intro to neural nets](http://www.theprojectspot.com/tutorial-post/introduction-to-artificial-neural-networks-part-1/7/?)
+- [Alan Kay on how to write self-describing data formats](http://blog.moryton.net/2007/12/computer-revolution-hasnt-happened-yet.html)
 
 ## go libs
 
