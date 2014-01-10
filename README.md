@@ -138,6 +138,7 @@ notes about stuff
 - [go-pprof](https://github.com/remyoudompheng/go-misc/tree/master/pprof)
 - [go-service](https://bitbucket.org/kardianos/service/src)
 - [go-respawn,go-forever](https://github.com/gwoo/goforever)
+- [go-channels (multiplex, tee, pipe channels)](https://github.com/eapache/channels)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
