@@ -3,6 +3,7 @@ notes-and-todos
 
 notes about stuff
 
+[go patterns](https://sites.google.com/site/gopatterns/)
 
 ## VMs implementations
 
