@@ -75,6 +75,7 @@ notes about stuff
 - [nix-docker](https://github.com/zefhemel/nix-docker)
 - [golab](https://github.com/mb0/lab)
 - [ceph+juju](http://ceph.com/dev-notes/deploying-ceph-with-juju/)
+- [private docker registry](http://www.activestate.com/blog/2014/01/deploying-your-own-private-docker-registry)
 
 ## parsers
 
