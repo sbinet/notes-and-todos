@@ -143,6 +143,7 @@ notes about stuff
 - [go-respawn,go-forever](https://github.com/gwoo/goforever)
 - [go-channels (multiplex, tee, pipe channels)](https://github.com/eapache/channels)
 - [termbox](https://github.com/nsf/termbox-go)
+- [go-expect](https://github.com/ThomasRooney/gexpect)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
