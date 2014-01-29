@@ -34,6 +34,7 @@ notes about stuff
 - [linenoise](https://github.com/antirez/linenoise)
 - [liner](https://github.com/sbinet/liner)
 - [gobs/cmd](https://github.com/gobs/cmd)
+- [go-cui](https://github.com/jroimartin/gocui)
 
 ## build systems
 
