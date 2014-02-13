@@ -28,6 +28,7 @@ notes about stuff
 ## go-bric
 
 - [gotask](https://github.com/sbinet/gotask)
+- [geto](https://github.com/bgmerrell/geto)
 
 ## terminal/line-edit
 
