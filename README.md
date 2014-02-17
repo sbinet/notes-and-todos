@@ -24,6 +24,7 @@ notes about stuff
 - [embedded go-lisp (kakapo)](https://github.com/bytbox/kakapo)
 - [go-rvm](https://github.com/jteeuwen/rvm)
 - [mini-llvm](https://github.com/intelfx/Homework_2011)
+- [arogue: Go->R REPL](https://github.com/glycerine/arogue)
 
 ## go-bric
 
