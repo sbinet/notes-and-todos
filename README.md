@@ -80,6 +80,7 @@ notes about stuff
 - [ceph+juju](http://ceph.com/dev-notes/deploying-ceph-with-juju/)
 - [private docker registry](http://www.activestate.com/blog/2014/01/deploying-your-own-private-docker-registry)
 - [docker-gaudi (appliance)](https://github.com/marmelab/gaudi)
+- [juju-docker](https://github.com/bcsaller/juju-docker)
 
 ## parsers
 
