@@ -156,6 +156,7 @@ notes about stuff
 - [py-d3](http://jakevdp.github.io/blog/2013/12/19/a-d3-viewer-for-matplotlib/)
 - [py-vincent-vega](https://github.com/wrobstory/vincent)
 - [go-3d](https://github.com/ungerik/go3d)
+- [go-rand (64b+Mersenne-Twister)](https://bitbucket.org/MaVo159/rand/)
 
 ## tools
 
