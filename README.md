@@ -152,6 +152,7 @@ notes about stuff
 - [termbox](https://github.com/nsf/termbox-go)
 - [go-expect](https://github.com/ThomasRooney/gexpect)
 - [tirion (monitoring)](https://github.com/zimmski/tirion)
+- [tachyon](https://github.com/vektra/tachyon)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
