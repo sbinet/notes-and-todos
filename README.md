@@ -109,6 +109,7 @@ notes about stuff
 - [intro to neural nets](http://www.theprojectspot.com/tutorial-post/introduction-to-artificial-neural-networks-part-1/7/?)
 - [self-describing data formats](http://inamidst.com/whits/2014/formats)
 - [go machine learning](http://biosphere.cc/software-engineering/go-machine-learning-nlp-libraries/)
+- [go linear regr. (zettalm)](https://github.com/glycerine/zettalm)
 
 ## go libs
 
