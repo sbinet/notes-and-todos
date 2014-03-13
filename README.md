@@ -154,6 +154,7 @@ notes about stuff
 - [go-expect](https://github.com/ThomasRooney/gexpect)
 - [tirion (monitoring)](https://github.com/zimmski/tirion)
 - [tachyon](https://github.com/vektra/tachyon)
+- [logging](https://github.com/koding/logging)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
