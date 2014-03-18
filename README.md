@@ -155,6 +155,7 @@ notes about stuff
 - [tirion (monitoring)](https://github.com/zimmski/tirion)
 - [tachyon](https://github.com/vektra/tachyon)
 - [logging](https://github.com/koding/logging)
+- [go-im: go IMDb](https://github.com/BurntSushi/goim)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
