@@ -156,6 +156,7 @@ notes about stuff
 - [tachyon](https://github.com/vektra/tachyon)
 - [logging](https://github.com/koding/logging)
 - [go-im: go IMDb](https://github.com/BurntSushi/goim)
+- [go-coprocess](https://github.com/kevinwallace/coprocess)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
