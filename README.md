@@ -83,6 +83,7 @@ notes about stuff
 - [docker-gaudi (appliance)](https://github.com/marmelab/gaudi)
 - [juju-docker](https://github.com/bcsaller/juju-docker)
 - [boot2docker (go CLI)](https://github.com/boot2docker/boot2docker-cli)
+- [frenzy - vagrant for docker](https://github.com/stevedomin/frenzy)
 
 ## parsers
 
