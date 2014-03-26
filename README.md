@@ -111,6 +111,7 @@ notes about stuff
 - [self-describing data formats](http://inamidst.com/whits/2014/formats)
 - [go machine learning](http://biosphere.cc/software-engineering/go-machine-learning-nlp-libraries/)
 - [go linear regr. (zettalm)](https://github.com/glycerine/zettalm)
+- [miridius - AI](https://github.com/miridius/miridius-ai)
 
 ## go libs
 
