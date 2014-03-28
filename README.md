@@ -90,6 +90,9 @@ notes about stuff
 - [ql](https://github.com/cznic/ql)
 - [otto (parser for js)](https://github.com/robertkrimen/otto)
 - [ragel](https://github.com/antage/ragel-go/tree/golang-6/ragel)
+- [ebnf](https://github.com/cznic/ebnf)
+- [ebnf2y](https://github.com/cznic/ebnf2y)
+- [ebnfutil](https://github.com/cznic/ebnfutil)
 
 ## C/S
 
