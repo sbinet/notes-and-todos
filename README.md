@@ -61,6 +61,7 @@ notes about stuff
 - [gobin](https://code.google.com/p/gobin/)
 - [parquet](https://github.com/parquet/parquet-format)
 - [c-gob](https://code.google.com/p/libgob/)
+- [ffjson](https://github.com/pquerna/ffjson)
 
 ## checkpointing, VMs, containers
 
