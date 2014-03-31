@@ -4,6 +4,7 @@ notes-and-todos
 notes about stuff
 
 [go patterns](https://sites.google.com/site/gopatterns/)
+[go concurrency](http://www.nada.kth.se/~snilsson/concurrency)
 
 ## VMs implementations
 
