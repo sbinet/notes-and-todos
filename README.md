@@ -26,6 +26,7 @@ notes about stuff
 - [go-rvm](https://github.com/jteeuwen/rvm)
 - [mini-llvm](https://github.com/intelfx/Homework_2011)
 - [arogue: Go->R REPL](https://github.com/glycerine/arogue)
+- [anko](https://github.com/mattn/anko)
 
 ## go-bric
 
