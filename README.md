@@ -166,6 +166,7 @@ notes about stuff
 - [go-im: go IMDb](https://github.com/BurntSushi/goim)
 - [go-coprocess](https://github.com/kevinwallace/coprocess)
 - [azul-3d](https://code.google.com/p/azul3d/)
+- [go-dsl](https://github.com/leeview/godsl)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
