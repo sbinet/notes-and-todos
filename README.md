@@ -96,6 +96,7 @@ notes about stuff
 - [ebnf](https://github.com/cznic/ebnf)
 - [ebnf2y](https://github.com/cznic/ebnf2y)
 - [ebnfutil](https://github.com/cznic/ebnfutil)
+- [walkngo](https://github.com/raff/walkngo)
 
 ## C/S
 
