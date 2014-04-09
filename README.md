@@ -57,6 +57,7 @@ notes about stuff
 
 - [binc](https://github.com/ugorji/go/tree/master/codec)
 - [msgpack](https://github.com/msgpack/msgpack-go)
+- [nanomsg](https://github.com/op/go-nanomsg)
 - [drillbit](https://github.com/JohannesEbke/drillbit)
 - [capnproto](http://kentonv.github.io/capnproto/)
 - [go-capnproto](https://github.com/jmckaskill/go-capnproto)
