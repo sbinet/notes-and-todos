@@ -170,6 +170,7 @@ notes about stuff
 - [go-coprocess](https://github.com/kevinwallace/coprocess)
 - [azul-3d](https://code.google.com/p/azul3d/)
 - [go-dsl](https://github.com/leeview/godsl)
+- [ptrace](https://github.com/eaburns/ptrace)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
