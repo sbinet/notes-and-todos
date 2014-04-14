@@ -41,6 +41,7 @@ notes about stuff
 - [gobs/cmd](https://github.com/gobs/cmd)
 - [go-cui](https://github.com/jroimartin/gocui)
 - [termshare](https://github.com/progrium/termshare/blob/master/termshare.go)
+- [goline](https://github.com/nemith/go-goline)
 
 ## build systems
 
