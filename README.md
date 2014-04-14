@@ -171,6 +171,7 @@ notes about stuff
 - [azul-3d](https://code.google.com/p/azul3d/)
 - [go-dsl](https://github.com/leeview/godsl)
 - [ptrace](https://github.com/eaburns/ptrace)
+- [bolt](https://github.com/boltdb/bolt)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
