@@ -175,6 +175,7 @@ notes about stuff
 - [bolt](https://github.com/boltdb/bolt)
 - [mount](https://github.com/jsgilmore/mount)
 - [shm](https://github.com/jsgilmore/shm)
+- [trace](https://github.com/jimrobinson/trace/)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
