@@ -174,6 +174,7 @@ notes about stuff
 - [ptrace](https://github.com/eaburns/ptrace)
 - [bolt](https://github.com/boltdb/bolt)
 - [mount](https://github.com/jsgilmore/mount)
+- [shm](https://github.com/jsgilmore/shm)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
