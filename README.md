@@ -173,6 +173,7 @@ notes about stuff
 - [go-dsl](https://github.com/leeview/godsl)
 - [ptrace](https://github.com/eaburns/ptrace)
 - [bolt](https://github.com/boltdb/bolt)
+- [mount](https://github.com/jsgilmore/mount)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
