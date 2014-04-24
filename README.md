@@ -185,7 +185,8 @@ notes about stuff
 - [go-3d](https://github.com/ungerik/go3d)
 - [go-rand (64b+Mersenne-Twister)](https://bitbucket.org/MaVo159/rand/)
 - [go-math32](https://github.com/AE9RB/math32)
-- [g+cuda](https://fosdem.org/2014/schedule/event/hpc_devroom_go/)
+- [go+cuda](https://fosdem.org/2014/schedule/event/hpc_devroom_go/)
+- [go-stats](https://github.com/GaryBoone/GoStats)
 
 ## tools
 
