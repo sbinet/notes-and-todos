@@ -178,6 +178,7 @@ notes about stuff
 - [trace](https://github.com/jimrobinson/trace/)
 - [oh (shell in go)](https://github.com/michaelmacinnis/oh)
 - [go-update](https://github.com/inconshreveable/go-update)
+- [go-jit](https://github.com/nelhage/gojit)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
