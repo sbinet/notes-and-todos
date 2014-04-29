@@ -179,6 +179,7 @@ notes about stuff
 - [oh (shell in go)](https://github.com/michaelmacinnis/oh)
 - [go-update](https://github.com/inconshreveable/go-update)
 - [go-jit](https://github.com/nelhage/gojit)
+- [gengen: generics generator](https://github.com/joeshaw/gengen)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
