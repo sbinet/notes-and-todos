@@ -182,6 +182,7 @@ notes about stuff
 - [go-jit](https://github.com/nelhage/gojit)
 - [gengen: generics generator](https://github.com/joeshaw/gengen)
 - [go-mysql (pure go)](https://github.com/go-sql-driver/mysql/)
+- [gobot.io](http://gobot.io/)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
