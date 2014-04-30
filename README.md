@@ -122,6 +122,7 @@ notes about stuff
 - [go machine learning](http://biosphere.cc/software-engineering/go-machine-learning-nlp-libraries/)
 - [go linear regr. (zettalm)](https://github.com/glycerine/zettalm)
 - [miridius - AI](https://github.com/miridius/miridius-ai)
+- [distributed computing course](http://cseweb.ucsd.edu/classes/sp14/cse223B-a/index.html)
 
 ## go libs
 
