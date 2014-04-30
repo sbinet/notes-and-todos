@@ -180,6 +180,7 @@ notes about stuff
 - [go-update](https://github.com/inconshreveable/go-update)
 - [go-jit](https://github.com/nelhage/gojit)
 - [gengen: generics generator](https://github.com/joeshaw/gengen)
+- [go-mysql (pure go)](https://github.com/go-sql-driver/mysql/)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
