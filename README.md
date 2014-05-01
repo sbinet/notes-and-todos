@@ -67,6 +67,7 @@ notes about stuff
 - [parquet](https://github.com/parquet/parquet-format)
 - [c-gob](https://code.google.com/p/libgob/)
 - [ffjson](https://github.com/pquerna/ffjson)
+- [goser: serialization benchmarks](https://github.com/cloudflare/goser)
 
 ## checkpointing, VMs, containers
 
