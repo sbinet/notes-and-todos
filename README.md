@@ -194,6 +194,7 @@ notes about stuff
 - [go-math32](https://github.com/AE9RB/math32)
 - [go+cuda](https://fosdem.org/2014/schedule/event/hpc_devroom_go/)
 - [go-stats](https://github.com/GaryBoone/GoStats)
+- [go-glpk (linear programming kit)](https://github.com/lukpank/go-glpk)
 
 ## tools
 
