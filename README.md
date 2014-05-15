@@ -185,6 +185,7 @@ notes about stuff
 - [gengen: generics generator](https://github.com/joeshaw/gengen)
 - [go-mysql (pure go)](https://github.com/go-sql-driver/mysql/)
 - [gobot.io](http://gobot.io/)
+- [gosgl: opengpl+gpu](https://github.com/phaikawl/gosgl)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
