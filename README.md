@@ -186,6 +186,7 @@ notes about stuff
 - [go-mysql (pure go)](https://github.com/go-sql-driver/mysql/)
 - [gobot.io](http://gobot.io/)
 - [gosgl: opengpl+gpu](https://github.com/phaikawl/gosgl)
+- [embd: go for GPIO, RPi, embedded](https://github.com/kidoman/embd)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
