@@ -198,6 +198,7 @@ notes about stuff
 - [go+cuda](https://fosdem.org/2014/schedule/event/hpc_devroom_go/)
 - [go-stats](https://github.com/GaryBoone/GoStats)
 - [go-glpk (linear programming kit)](https://github.com/lukpank/go-glpk)
+- [go-learn: machine learning library](https://github.com/sjwhitworth/golearn)
 
 ## tools
 
