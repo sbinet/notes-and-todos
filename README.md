@@ -124,6 +124,7 @@ notes about stuff
 - [go linear regr. (zettalm)](https://github.com/glycerine/zettalm)
 - [miridius - AI](https://github.com/miridius/miridius-ai)
 - [distributed computing course](http://cseweb.ucsd.edu/classes/sp14/cse223B-a/index.html)
+- [conway's game of life](https://bitbucket.org/teknico/a_life)
 
 ## go libs
 
