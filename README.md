@@ -189,6 +189,7 @@ notes about stuff
 - [embd: go for GPIO, RPi, embedded](https://github.com/kidoman/embd)
 - [occult: go-based MapReduce fwk](https://github.com/akualab/occult)
 - [goq: sun-engine like job queue](https://github.com/glycerine/goq)
+- [keyboard: binding keys to actions](https://github.com/jteeuwen/keyboard)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
