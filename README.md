@@ -210,6 +210,11 @@ notes about stuff
 - [gostatus](https://github.com/shurcooL/gostatus)
 - [call go from c](http://stackoverflow.com/questions/6125683/call-go-functions-from-c)
 
+## tutorials
+
+- [go ssh](http://kukuruku.co/hub/golang/ssh-commands-execution-on-hundreds-of-servers-via-go)
+ 
+
 ## packaging
 
 - [guix](http://www.gnu.org/software/guix/manual/guix.pdf)
