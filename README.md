@@ -188,6 +188,7 @@ notes about stuff
 - [gosgl: opengpl+gpu](https://github.com/phaikawl/gosgl)
 - [embd: go for GPIO, RPi, embedded](https://github.com/kidoman/embd)
 - [occult: go-based MapReduce fwk](https://github.com/akualab/occult)
+- [goq: sun-engine like job queue](https://github.com/glycerine/goq)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
