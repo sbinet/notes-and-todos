@@ -202,6 +202,7 @@ notes about stuff
 - [go-stats](https://github.com/GaryBoone/GoStats)
 - [go-glpk (linear programming kit)](https://github.com/lukpank/go-glpk)
 - [go-learn: machine learning library](https://github.com/sjwhitworth/golearn)
+- [zettalm: linear fits](https://github.com/glycerine/zettalm)
 
 ## tools
 
