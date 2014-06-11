@@ -91,6 +91,7 @@ notes about stuff
 - [juju-docker](https://github.com/bcsaller/juju-docker)
 - [boot2docker (go CLI)](https://github.com/boot2docker/boot2docker-cli)
 - [frenzy - vagrant for docker](https://github.com/stevedomin/frenzy)
+- [kubernets: cluster mgt for containers](https://github.com/GoogleCloudPlatform/kubernetes)
 
 ## parsers
 
