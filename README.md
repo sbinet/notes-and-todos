@@ -190,7 +190,7 @@ notes about stuff
 - [occult: go-based MapReduce fwk](https://github.com/akualab/occult)
 - [goq: sun-engine like job queue](https://github.com/glycerine/goq)
 - [keyboard: binding keys to actions](https://github.com/jteeuwen/keyboard)
-- [libchan: channels b/w progs](https://github.com/docker/libchan)
+- [libchan: channels over the network](https://github.com/docker/libchan)
 
 
 ## sci-libs
