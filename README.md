@@ -192,6 +192,7 @@ notes about stuff
 - [goq: sun-engine like job queue](https://github.com/glycerine/goq)
 - [keyboard: binding keys to actions](https://github.com/jteeuwen/keyboard)
 - [libchan: channels over the network](https://github.com/docker/libchan)
+- [async](https://github.com/egonelbre/async)
 
 
 ## sci-libs
