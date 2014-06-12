@@ -183,6 +183,7 @@ notes about stuff
 - [oh (shell in go)](https://github.com/michaelmacinnis/oh)
 - [go-update](https://github.com/inconshreveable/go-update)
 - [go-jit](https://github.com/nelhage/gojit)
+- [go-asm](https://github.com/crawshaw/asm)
 - [gengen: generics generator](https://github.com/joeshaw/gengen)
 - [go-mysql (pure go)](https://github.com/go-sql-driver/mysql/)
 - [gobot.io](http://gobot.io/)
