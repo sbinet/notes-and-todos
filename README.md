@@ -194,6 +194,8 @@ notes about stuff
 - [keyboard: binding keys to actions](https://github.com/jteeuwen/keyboard)
 - [libchan: channels over the network](https://github.com/docker/libchan)
 - [async](https://github.com/egonelbre/async)
+- [go-update](https://github.com/inconshreveable/go-update)
+- [go-bindata](https://github.com/jteeuwen/go-bindata)
 
 
 ## sci-libs
