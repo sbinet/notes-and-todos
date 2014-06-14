@@ -222,6 +222,9 @@ notes about stuff
 
 - [go ssh](http://kukuruku.co/hub/golang/ssh-commands-execution-on-hundreds-of-servers-via-go)
  
+## games/ai
+
+- [gorobots](https://github.com/frasergraham/gorobots)
 
 ## packaging
 
