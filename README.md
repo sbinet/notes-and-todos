@@ -126,6 +126,7 @@ notes about stuff
 - [miridius - AI](https://github.com/miridius/miridius-ai)
 - [distributed computing course](http://cseweb.ucsd.edu/classes/sp14/cse223B-a/index.html)
 - [conway's game of life](https://bitbucket.org/teknico/a_life)
+- [neural network + deep learning](http://neuralnetworksanddeeplearning.com/chap2.html)
 
 ## go libs
 
