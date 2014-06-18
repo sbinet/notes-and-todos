@@ -68,6 +68,7 @@ notes about stuff
 - [c-gob](https://code.google.com/p/libgob/)
 - [ffjson](https://github.com/pquerna/ffjson)
 - [goser: serialization benchmarks](https://github.com/cloudflare/goser)
+- [flatbuffers (c++)](https://github.com/google/flatbuffers)
 
 ## checkpointing, VMs, containers
 
