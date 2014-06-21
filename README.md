@@ -198,6 +198,7 @@ notes about stuff
 - [async](https://github.com/egonelbre/async)
 - [go-update](https://github.com/inconshreveable/go-update)
 - [go-bindata](https://github.com/jteeuwen/go-bindata)
+- [go-runsit](https://github.com/bradfitz/runsit)
 
 
 ## sci-libs
