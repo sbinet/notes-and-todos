@@ -199,6 +199,7 @@ notes about stuff
 - [go-update](https://github.com/inconshreveable/go-update)
 - [go-bindata](https://github.com/jteeuwen/go-bindata)
 - [go-runsit](https://github.com/bradfitz/runsit)
+- [jobmux: job multiplexer](https://github.com/kaicheng/jobmux)
 
 
 ## sci-libs
