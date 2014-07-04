@@ -200,6 +200,7 @@ notes about stuff
 - [go-bindata](https://github.com/jteeuwen/go-bindata)
 - [go-runsit](https://github.com/bradfitz/runsit)
 - [jobmux: job multiplexer](https://github.com/kaicheng/jobmux)
+- [goast-viewer](https://github.com/yuroyoro/goast-viewer)
 
 
 ## sci-libs
