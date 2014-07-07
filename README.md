@@ -201,7 +201,7 @@ notes about stuff
 - [go-runsit](https://github.com/bradfitz/runsit)
 - [jobmux: job multiplexer](https://github.com/kaicheng/jobmux)
 - [goast-viewer](https://github.com/yuroyoro/goast-viewer)
-
+- [geno: a generics generator](https://github.com/champioj/geno)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
