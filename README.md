@@ -227,7 +227,8 @@ notes about stuff
 ## tutorials
 
 - [go ssh](http://kukuruku.co/hub/golang/ssh-commands-execution-on-hundreds-of-servers-via-go)
- 
+- [programming problems in go](https://github.com/PrikPrak/Go_101)
+
 ## games/ai
 
 - [gorobots](https://github.com/frasergraham/gorobots)
