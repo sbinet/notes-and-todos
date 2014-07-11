@@ -203,6 +203,8 @@ notes about stuff
 - [jobmux: job multiplexer](https://github.com/kaicheng/jobmux)
 - [goast-viewer](https://github.com/yuroyoro/goast-viewer)
 - [geno: a generics generator](https://github.com/champioj/geno)
+- [go-lzma](https://code.google.com/p/lzma/)
+
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
