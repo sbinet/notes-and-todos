@@ -216,6 +216,7 @@ notes about stuff
 - [go-learn: machine learning library](https://github.com/sjwhitworth/golearn)
 - [zettalm: linear fits](https://github.com/glycerine/zettalm)
 - [scimark2 - scientific benchmarks (C/Java)](http://math.nist.gov/scimark2/index.html)
+- [arrgh: a Go<->R layer](https://github.com/kortschak/arrgh)
 
 ## tools
 
