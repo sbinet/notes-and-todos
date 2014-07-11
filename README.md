@@ -69,6 +69,7 @@ notes about stuff
 - [ffjson](https://github.com/pquerna/ffjson)
 - [goser: serialization benchmarks](https://github.com/cloudflare/goser)
 - [flatbuffers (c++)](https://github.com/google/flatbuffers)
+- [godec](https://github.com/zond/godec)
 
 ## checkpointing, VMs, containers
 
