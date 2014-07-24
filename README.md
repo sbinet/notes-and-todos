@@ -33,6 +33,7 @@ notes about stuff
 
 - [gotask](https://github.com/sbinet/gotask)
 - [geto](https://github.com/bgmerrell/geto)
+- [loom - a go fabric](https://github.com/wingedpig/loom)
 
 ## terminal/line-edit
 
