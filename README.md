@@ -205,6 +205,7 @@ notes about stuff
 - [goast-viewer](https://github.com/yuroyoro/goast-viewer)
 - [geno: a generics generator](https://github.com/champioj/geno)
 - [go-lzma](https://code.google.com/p/lzma/)
+- [go-stream - inspired from labix/pipe](https://github.com/ghemawat/stream)
 
 
 ## sci-libs
