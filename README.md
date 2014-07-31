@@ -28,6 +28,7 @@ notes about stuff
 - [arogue: Go->R REPL](https://github.com/glycerine/arogue)
 - [anko](https://github.com/mattn/anko)
 - [golog](https://github.com/mndrix/golog)
+- [gelo](https://code.google.com/p/gelo/)
 
 ## go-bric
 
