@@ -72,6 +72,7 @@ notes about stuff
 - [goser: serialization benchmarks](https://github.com/cloudflare/goser)
 - [flatbuffers (c++)](https://github.com/google/flatbuffers)
 - [godec](https://github.com/zond/godec)
+- [sereal](https://github.com/Sereal/Sereal)
 
 ## checkpointing, VMs, containers
 
