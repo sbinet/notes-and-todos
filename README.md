@@ -29,6 +29,7 @@ notes about stuff
 - [anko](https://github.com/mattn/anko)
 - [golog](https://github.com/mndrix/golog)
 - [gelo](https://code.google.com/p/gelo/)
+- [carpt](https://github.com/tekknolagi/carp)
 
 ## go-bric
 
