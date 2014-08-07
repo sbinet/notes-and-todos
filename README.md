@@ -226,6 +226,7 @@ notes about stuff
 - [zettalm: linear fits](https://github.com/glycerine/zettalm)
 - [scimark2 - scientific benchmarks (C/Java)](http://math.nist.gov/scimark2/index.html)
 - [arrgh: a Go<->R layer](https://github.com/kortschak/arrgh)
+- [tesseradata - deep analysis of large complex data](http://tesseradata.org/)
 
 ## tools
 
