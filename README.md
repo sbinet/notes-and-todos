@@ -211,6 +211,7 @@ notes about stuff
 - [go-stream - inspired from labix/pipe](https://github.com/ghemawat/stream)
 - [edi - an editor, in Go](https://github.com/satran/edi)
 - [daemon - to daemonize a go program](https://github.com/takama/daemon)
+- [vitess' sqlparser](https://github.com/youtube/vitess/tree/master/go/vt/sqlparser)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
