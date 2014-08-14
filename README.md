@@ -91,6 +91,8 @@ notes about stuff
 - [docker-codecube](http://hmarr.com/2013/oct/16/codecube-runnable-gists/)
 - [nix-docker](https://github.com/zefhemel/nix-docker)
 - [golab](https://github.com/mb0/lab)
+- [dbg: a go debugger in go](https://github.com/derekparker/dbg)
+- [godbg: another debugger in go](https://github.com/sirnewton01/godbg)
 - [ceph+juju](http://ceph.com/dev-notes/deploying-ceph-with-juju/)
 - [private docker registry](http://www.activestate.com/blog/2014/01/deploying-your-own-private-docker-registry)
 - [docker-gaudi (appliance)](https://github.com/marmelab/gaudi)
