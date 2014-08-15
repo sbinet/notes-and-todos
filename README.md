@@ -56,6 +56,7 @@ notes about stuff
 - [fubsy](http://fubsy.gerg.ca/)
 - [repobuild](https://github.com/chrisvana/repobuild)
 - [gobot](https://github.com/kr/gobot)
+- [makex (in go)](https://github.com/sourcegraph/makex)
 
 ## serialization
 
