@@ -135,6 +135,7 @@ notes about stuff
 - [distributed computing course](http://cseweb.ucsd.edu/classes/sp14/cse223B-a/index.html)
 - [conway's game of life](https://bitbucket.org/teknico/a_life)
 - [neural network + deep learning](http://neuralnetworksanddeeplearning.com/chap2.html)
+- [digital signal processing](http://www.dspguide.com/pdfbook.htm)
 
 ## go libs
 
