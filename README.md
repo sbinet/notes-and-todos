@@ -235,6 +235,7 @@ notes about stuff
 
 - [github forks](http://forked.yannick.io/)
 - [gh](http://owenou.com/2013/12/22/fast-github-command-line-client-written-in-go.html)
+- [git-manager](https://github.com/etola/git-manager)
 - [gostatus](https://github.com/shurcooL/gostatus)
 - [call go from c](http://stackoverflow.com/questions/6125683/call-go-functions-from-c)
 
