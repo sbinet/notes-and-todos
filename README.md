@@ -137,6 +137,7 @@ notes about stuff
 - [conway's game of life](https://bitbucket.org/teknico/a_life)
 - [neural network + deep learning](http://neuralnetworksanddeeplearning.com/chap2.html)
 - [digital signal processing](http://www.dspguide.com/pdfbook.htm)
+- [intro to signal processing](http://www.ece.rutgers.edu/~orfanidi/intro2sp/)
 
 ## go libs
 
