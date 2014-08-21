@@ -218,6 +218,7 @@ notes about stuff
 - [daemon - to daemonize a go program](https://github.com/takama/daemon)
 - [vitess' sqlparser](https://github.com/youtube/vitess/tree/master/go/vt/sqlparser)
 - [srclib: sourcegraph's code groker](https://srclib.org/)
+- [find unused functions (go-oracle-based)](https://github.com/3rf/go-unused-funcs)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
