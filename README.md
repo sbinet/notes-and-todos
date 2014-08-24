@@ -219,6 +219,7 @@ notes about stuff
 - [vitess' sqlparser](https://github.com/youtube/vitess/tree/master/go/vt/sqlparser)
 - [srclib: sourcegraph's code groker](https://srclib.org/)
 - [find unused functions (go-oracle-based)](https://github.com/3rf/go-unused-funcs)
+- [impl: generate stubs from an interface](https://github.com/josharian/impl)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
