@@ -220,6 +220,7 @@ notes about stuff
 - [srclib: sourcegraph's code groker](https://srclib.org/)
 - [find unused functions (go-oracle-based)](https://github.com/3rf/go-unused-funcs)
 - [impl: generate stubs from an interface](https://github.com/josharian/impl)
+- [chidley: xml-to-go-struct generator](https://github.com/gnewton/chidley)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
