@@ -101,6 +101,7 @@ notes about stuff
 - [boot2docker (go CLI)](https://github.com/boot2docker/boot2docker-cli)
 - [frenzy - vagrant for docker](https://github.com/stevedomin/frenzy)
 - [kubernets: cluster mgt for containers](https://github.com/GoogleCloudPlatform/kubernetes)
+- [dockersh: shell with/for docker](https://github.com/Yelp/dockersh)
 
 ## parsers
 
