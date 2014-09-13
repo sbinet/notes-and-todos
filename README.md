@@ -221,6 +221,7 @@ notes about stuff
 - [find unused functions (go-oracle-based)](https://github.com/3rf/go-unused-funcs)
 - [impl: generate stubs from an interface](https://github.com/josharian/impl)
 - [chidley: xml-to-go-struct generator](https://github.com/gnewton/chidley)
+- [stacko: fetching stack traces](https://github.com/hallas/stacko)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
