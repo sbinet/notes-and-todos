@@ -140,6 +140,7 @@ notes about stuff
 - [neural network + deep learning](http://neuralnetworksanddeeplearning.com/chap2.html)
 - [digital signal processing](http://www.dspguide.com/pdfbook.htm)
 - [intro to signal processing](http://www.ece.rutgers.edu/~orfanidi/intro2sp/)
+- [mlgo: machine learning library in go](https://code.google.com/p/mlgo/)
 
 ## go libs
 
