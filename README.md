@@ -45,6 +45,7 @@ notes about stuff
 - [go-cui](https://github.com/jroimartin/gocui)
 - [termshare](https://github.com/progrium/termshare/blob/master/termshare.go)
 - [goline](https://github.com/nemith/go-goline)
+- [python prompt toolkit](https://github.com/jonathanslenders/python-prompt-toolkit)
 
 ## build systems
 
