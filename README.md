@@ -141,6 +141,7 @@ notes about stuff
 - [digital signal processing](http://www.dspguide.com/pdfbook.htm)
 - [intro to signal processing](http://www.ece.rutgers.edu/~orfanidi/intro2sp/)
 - [mlgo: machine learning library in go](https://code.google.com/p/mlgo/)
+- [or-tools: python linear solver](https://code.google.com/p/or-tools/)
 
 ## go libs
 
