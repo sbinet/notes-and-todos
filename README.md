@@ -227,6 +227,7 @@ notes about stuff
 - [chidley: xml-to-go-struct generator](https://github.com/gnewton/chidley)
 - [stacko: fetching stack traces](https://github.com/hallas/stacko)
 - [go-netchan: channels over the network](https://github.com/OneOfOne/netchan)
+- [cmemory: profiling+tools cgo](https://github.com/emilymaier/cmemory)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
