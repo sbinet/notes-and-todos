@@ -229,6 +229,8 @@ notes about stuff
 - [go-netchan: channels over the network](https://github.com/OneOfOne/netchan)
 - [cmemory: profiling+tools cgo](https://github.com/emilymaier/cmemory)
 - [table: interface to sql.DB](https://bitbucket.org/kardianos/table)
+- [dot: graphviz writer](https://github.com/tmc/dot)
+- [gographviz: graphviz writer](https://code.google.com/p/gographviz/)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
