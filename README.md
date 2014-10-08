@@ -228,6 +228,7 @@ notes about stuff
 - [stacko: fetching stack traces](https://github.com/hallas/stacko)
 - [go-netchan: channels over the network](https://github.com/OneOfOne/netchan)
 - [cmemory: profiling+tools cgo](https://github.com/emilymaier/cmemory)
+- [table: interface to sql.DB](https://bitbucket.org/kardianos/table)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
