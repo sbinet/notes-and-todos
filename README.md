@@ -247,6 +247,7 @@ notes about stuff
 - [scimark2 - scientific benchmarks (C/Java)](http://math.nist.gov/scimark2/index.html)
 - [arrgh: a Go<->R layer](https://github.com/kortschak/arrgh)
 - [tesseradata - deep analysis of large complex data](http://tesseradata.org/)
+- [libsvm-go: support vector machine in go](https://github.com/ewalker544/libsvm-go)
 
 ## tools
 
