@@ -36,6 +36,7 @@ notes about stuff
 - [gotask](https://github.com/sbinet/gotask)
 - [geto](https://github.com/bgmerrell/geto)
 - [loom - a go fabric](https://github.com/wingedpig/loom)
+- [slex: fabric for go](https://github.com/crosbymichael/slex)
 
 ## terminal/line-edit
 
@@ -231,6 +232,7 @@ notes about stuff
 - [table: interface to sql.DB](https://bitbucket.org/kardianos/table)
 - [dot: graphviz writer](https://github.com/tmc/dot)
 - [gographviz: graphviz writer](https://code.google.com/p/gographviz/)
+- [slex: fabric for go](https://github.com/crosbymichael/slex)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
