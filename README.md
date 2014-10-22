@@ -233,6 +233,7 @@ notes about stuff
 - [dot: graphviz writer](https://github.com/tmc/dot)
 - [gographviz: graphviz writer](https://code.google.com/p/gographviz/)
 - [slex: fabric for go](https://github.com/crosbymichael/slex)
+- [xsd: generate go-xml structs from a XSD spec](https://github.com/metaleap/go-xsd)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
