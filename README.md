@@ -234,6 +234,7 @@ notes about stuff
 - [gographviz: graphviz writer](https://code.google.com/p/gographviz/)
 - [slex: fabric for go](https://github.com/crosbymichael/slex)
 - [xsd: generate go-xml structs from a XSD spec](https://github.com/metaleap/go-xsd)
+- [nex: lexer generating go code](https://crypto.stanford.edu/~blynn/nex/)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
