@@ -260,6 +260,7 @@ notes about stuff
 - [git-manager](https://github.com/etola/git-manager)
 - [gostatus](https://github.com/shurcooL/gostatus)
 - [call go from c](http://stackoverflow.com/questions/6125683/call-go-functions-from-c)
+- [trace-viewer: view traces in browser](https://github.com/google/trace-viewer)
 
 ## tutorials
 
