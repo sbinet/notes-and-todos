@@ -274,4 +274,4 @@ notes about stuff
 ## packaging
 
 - [guix](http://www.gnu.org/software/guix/manual/guix.pdf)
-- 
+
