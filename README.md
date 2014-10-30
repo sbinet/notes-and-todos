@@ -235,6 +235,7 @@ notes about stuff
 - [slex: fabric for go](https://github.com/crosbymichael/slex)
 - [xsd: generate go-xml structs from a XSD spec](https://github.com/metaleap/go-xsd)
 - [nex: lexer generating go code](https://crypto.stanford.edu/~blynn/nex/)
+- [afero: a FS abstraction](https://github.com/spf13/afero)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
