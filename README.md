@@ -104,6 +104,7 @@ notes about stuff
 - [frenzy - vagrant for docker](https://github.com/stevedomin/frenzy)
 - [kubernets: cluster mgt for containers](https://github.com/GoogleCloudPlatform/kubernetes)
 - [dockersh: shell with/for docker](https://github.com/Yelp/dockersh)
+- [gojenkins: manage jenkins jobs](https://github.com/bndr/gojenkins)
 
 ## parsers
 
