@@ -105,6 +105,7 @@ notes about stuff
 - [kubernets: cluster mgt for containers](https://github.com/GoogleCloudPlatform/kubernetes)
 - [dockersh: shell with/for docker](https://github.com/Yelp/dockersh)
 - [gojenkins: manage jenkins jobs](https://github.com/bndr/gojenkins)
+- [docker-volumes: manage docker volumes](https://github.com/cpuguy83/docker-volumes)
 
 ## parsers
 
