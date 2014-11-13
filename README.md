@@ -78,6 +78,7 @@ notes about stuff
 - [flatbuffers (c++)](https://github.com/google/flatbuffers)
 - [godec](https://github.com/zond/godec)
 - [sereal](https://github.com/Sereal/Sereal)
+- [gobdb](https://github.com/dasmithii/GobDB)
 
 ## checkpointing, VMs, containers
 
