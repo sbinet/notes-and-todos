@@ -30,6 +30,7 @@ notes about stuff
 - [golog](https://github.com/mndrix/golog)
 - [gelo](https://code.google.com/p/gelo/)
 - [carpt](https://github.com/tekknolagi/carp)
+- [toycompiler](https://github.com/geraldstanje/toycompiler)
 
 ## go-bric
 
