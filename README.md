@@ -81,6 +81,7 @@ notes about stuff
 - [sereal](https://github.com/Sereal/Sereal)
 - [gobdb](https://github.com/dasmithii/GobDB)
 - [msg: codec generator for msgpack](https://github.com/philhofer/msgp)
+- [serialization benchmarks](https://github.com/alecthomas/go_serialization_benchmarks)
 
 ## checkpointing, VMs, containers
 
