@@ -80,6 +80,7 @@ notes about stuff
 - [godec](https://github.com/zond/godec)
 - [sereal](https://github.com/Sereal/Sereal)
 - [gobdb](https://github.com/dasmithii/GobDB)
+- [msg: codec generator for msgpack](https://github.com/philhofer/msgp)
 
 ## checkpointing, VMs, containers
 
