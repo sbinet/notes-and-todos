@@ -150,6 +150,7 @@ notes about stuff
 - [intro to signal processing](http://www.ece.rutgers.edu/~orfanidi/intro2sp/)
 - [mlgo: machine learning library in go](https://code.google.com/p/mlgo/)
 - [or-tools: python linear solver](https://code.google.com/p/or-tools/)
+- [data mining book](http://www.mmds.org/#ver21)
 
 ## go libs
 
