@@ -244,6 +244,7 @@ notes about stuff
 - [xsd: generate go-xml structs from a XSD spec](https://github.com/metaleap/go-xsd)
 - [nex: lexer generating go code](https://crypto.stanford.edu/~blynn/nex/)
 - [afero: a FS abstraction](https://github.com/spf13/afero)
+- [tmass: tmux session manager](https://github.com/fzerorubigd/tmass)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
