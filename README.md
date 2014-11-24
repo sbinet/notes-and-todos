@@ -245,6 +245,7 @@ notes about stuff
 - [nex: lexer generating go code](https://crypto.stanford.edu/~blynn/nex/)
 - [afero: a FS abstraction](https://github.com/spf13/afero)
 - [tmass: tmux session manager](https://github.com/fzerorubigd/tmass)
+- [dotsql: go library for SQL](https://github.com/gchaincl/dotsql)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
