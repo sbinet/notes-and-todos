@@ -111,6 +111,7 @@ notes about stuff
 - [dockersh: shell with/for docker](https://github.com/Yelp/dockersh)
 - [gojenkins: manage jenkins jobs](https://github.com/bndr/gojenkins)
 - [docker-volumes: manage docker volumes](https://github.com/cpuguy83/docker-volumes)
+- [dev: overlay docker containers for development](https://github.com/Xe/dev)
 
 ## parsers
 
