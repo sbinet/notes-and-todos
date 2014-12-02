@@ -247,6 +247,7 @@ notes about stuff
 - [afero: a FS abstraction](https://github.com/spf13/afero)
 - [tmass: tmux session manager](https://github.com/fzerorubigd/tmass)
 - [dotsql: go library for SQL](https://github.com/gchaincl/dotsql)
+- [sflag: cmd-line struct-based flags](https://github.com/teamldcs/sflag)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
