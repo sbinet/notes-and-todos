@@ -249,6 +249,7 @@ notes about stuff
 - [tmass: tmux session manager](https://github.com/fzerorubigd/tmass)
 - [dotsql: go library for SQL](https://github.com/gchaincl/dotsql)
 - [sflag: cmd-line struct-based flags](https://github.com/teamldcs/sflag)
+- [go-observer: a publish/subscribe library](https://github.com/imkira/go-observer)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
