@@ -250,6 +250,7 @@ notes about stuff
 - [dotsql: go library for SQL](https://github.com/gchaincl/dotsql)
 - [sflag: cmd-line struct-based flags](https://github.com/teamldcs/sflag)
 - [go-observer: a publish/subscribe library](https://github.com/imkira/go-observer)
+- [ivy: an APL-like calculator](https://github.com/robpike/ivy)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
