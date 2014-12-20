@@ -62,6 +62,7 @@ notes about stuff
 - [repobuild](https://github.com/chrisvana/repobuild)
 - [gobot](https://github.com/kr/gobot)
 - [makex (in go)](https://github.com/sourcegraph/makex)
+- [go build/install for c/c++: qo](https://github.com/andlabs/qo)
 
 ## serialization
 
