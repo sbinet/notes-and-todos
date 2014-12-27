@@ -252,6 +252,7 @@ notes about stuff
 - [sflag: cmd-line struct-based flags](https://github.com/teamldcs/sflag)
 - [go-observer: a publish/subscribe library](https://github.com/imkira/go-observer)
 - [ivy: an APL-like calculator](https://github.com/robpike/ivy)
+- [mailhog: mailer+ui](https://github.com/mailhog/MailHog)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
