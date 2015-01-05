@@ -32,6 +32,7 @@ notes about stuff
 - [carpt](https://github.com/tekknolagi/carp)
 - [toycompiler](https://github.com/geraldstanje/toycompiler)
 - [grubby](https://github.com/grubby/grubby)
+- [dyg: dynamic go (built on top of otto)](https://github.com/glycerine/dyg)
 
 ## go-bric
 
