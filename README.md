@@ -255,6 +255,7 @@ notes about stuff
 - [ivy: an APL-like calculator](https://github.com/robpike/ivy)
 - [mailhog: mailer+ui](https://github.com/mailhog/MailHog)
 - [vigo: vi in go](https://github.com/kisielk/vigo)
+- [tabler: go-generate structs from SQL schema](https://github.com/tristanwietsma/tabler)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
