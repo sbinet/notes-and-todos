@@ -155,6 +155,7 @@ notes about stuff
 - [mlgo: machine learning library in go](https://code.google.com/p/mlgo/)
 - [or-tools: python linear solver](https://code.google.com/p/or-tools/)
 - [data mining book](http://www.mmds.org/#ver21)
+- [go-cool: compiler for cool - coursera compiler lectures](https://github.com/zellyn/gocool)
 
 ## go libs
 
