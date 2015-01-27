@@ -33,6 +33,7 @@ notes about stuff
 - [toycompiler](https://github.com/geraldstanje/toycompiler)
 - [grubby](https://github.com/grubby/grubby)
 - [dyg: dynamic go (built on top of otto)](https://github.com/glycerine/dyg)
+- [asm: jit'ing asm](https://github.com/crawshaw/asm)
 
 ## go-bric
 
