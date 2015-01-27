@@ -116,6 +116,7 @@ notes about stuff
 - [gojenkins: manage jenkins jobs](https://github.com/bndr/gojenkins)
 - [docker-volumes: manage docker volumes](https://github.com/cpuguy83/docker-volumes)
 - [dev: overlay docker containers for development](https://github.com/Xe/dev)
+- [docker-bastion: ssh access to containers](https://github.com/gophergala/docker-bastion)
 
 ## parsers
 
