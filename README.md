@@ -34,6 +34,7 @@ notes about stuff
 - [grubby](https://github.com/grubby/grubby)
 - [dyg: dynamic go (built on top of otto)](https://github.com/glycerine/dyg)
 - [asm: jit'ing asm](https://github.com/crawshaw/asm)
+- [gothon: python in go](https://github.com/flowlo/gothon)
 
 ## go-bric
 
