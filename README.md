@@ -261,6 +261,7 @@ notes about stuff
 - [vigo: vi in go](https://github.com/kisielk/vigo)
 - [tabler: go-generate structs from SQL schema](https://github.com/tristanwietsma/tabler)
 - [c2go: translate C to Go](https://github.com/rsc/c2go)
+- [pt: a path tracer](https://github.com/fogleman/pt)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
