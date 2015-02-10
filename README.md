@@ -262,6 +262,7 @@ notes about stuff
 - [tabler: go-generate structs from SQL schema](https://github.com/tristanwietsma/tabler)
 - [c2go: translate C to Go](https://github.com/rsc/c2go)
 - [pt: a path tracer](https://github.com/fogleman/pt)
+- [go datastructures](https://github.com/Workiva/go-datastructures)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
