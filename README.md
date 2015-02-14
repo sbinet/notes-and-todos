@@ -14,7 +14,7 @@ notes about stuff
 - [lua](http://www.lua.org/source/5.2/lopcodes.h.html)
 - [lua-5.0](http://www.lua.org/doc/jucs05.pdf)
 - [lua-vm](http://luaforge.net/docman/83/98/ANoFrillsIntroToLua51VMInstructions.pdf)
-- [go-luna](https://github.com/PuerkitoBio/lune)
+- [lune: pure Go impl. of Lua VM](https://github.com/PuerkitoBio/lune)
 - [neko](http://nekovm.org/lua)
 - [golightly](https://github.com/feyeleanor/GoLightly)
 - [zerovm](https://github.com/zerovm/zerovm)
