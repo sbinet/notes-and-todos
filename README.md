@@ -282,6 +282,7 @@ notes about stuff
 - [tesseradata - deep analysis of large complex data](http://tesseradata.org/)
 - [libsvm-go: support vector machine in go](https://github.com/ewalker544/libsvm-go)
 - [ad: automatic differentiation in go](https://github.com/xoba/ad)
+- [ode: ordinary differential equations](https://github.com/sj14/ode)
 
 ## tools
 
