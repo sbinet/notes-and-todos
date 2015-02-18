@@ -3,8 +3,8 @@ notes-and-todos
 
 notes about stuff
 
-[go patterns](https://sites.google.com/site/gopatterns/)
-[go concurrency](http://www.nada.kth.se/~snilsson/concurrency)
+- [go patterns](https://sites.google.com/site/gopatterns/)
+- [go concurrency](http://www.nada.kth.se/~snilsson/concurrency)
 
 ## VMs implementations
 
@@ -265,6 +265,7 @@ notes about stuff
 - [c2go: translate C to Go](https://github.com/rsc/c2go)
 - [pt: a path tracer](https://github.com/fogleman/pt)
 - [go datastructures](https://github.com/Workiva/go-datastructures)
+- [gometalinter](https://github.com/alecthomas/gometalinter)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
