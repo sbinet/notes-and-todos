@@ -36,6 +36,7 @@ notes about stuff
 - [dyg: dynamic go (built on top of otto)](https://github.com/glycerine/dyg)
 - [asm: jit'ing asm](https://github.com/crawshaw/asm)
 - [gothon: python in go](https://github.com/flowlo/gothon)
+- [goconsole: an interactive go interpreter](https://github.com/davidthomas426/goconsole)
 
 ## go-bric
 
