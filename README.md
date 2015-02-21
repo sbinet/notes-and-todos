@@ -267,6 +267,7 @@ notes about stuff
 - [pt: a path tracer](https://github.com/fogleman/pt)
 - [go datastructures](https://github.com/Workiva/go-datastructures)
 - [gometalinter](https://github.com/alecthomas/gometalinter)
+- [websocketd](http://websocketd.com/)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
