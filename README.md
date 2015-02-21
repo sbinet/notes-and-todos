@@ -66,7 +66,7 @@ notes about stuff
 - [fubsy](http://fubsy.gerg.ca/)
 - [repobuild](https://github.com/chrisvana/repobuild)
 - [gobot](https://github.com/kr/gobot)
-- [makex (in go)](https://github.com/sourcegraph/makex)
+- [makex (make in go)](https://github.com/sourcegraph/makex)
 - [go build/install for c/c++: qo](https://github.com/andlabs/qo)
 
 ## serialization
@@ -122,6 +122,7 @@ notes about stuff
 - [dev: overlay docker containers for development](https://github.com/Xe/dev)
 - [docker-bastion: ssh access to containers](https://github.com/gophergala/docker-bastion)
 - [docker + jenkins](http://www.catosplace.net/blog/2015/02/11/running-jenkins-in-docker-containers/)
+- [go+mesos](http://java.dzone.com/articles/building-massively-scalable)
 
 ## parsers
 
