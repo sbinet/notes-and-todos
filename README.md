@@ -288,6 +288,7 @@ notes about stuff
 - [libsvm-go: support vector machine in go](https://github.com/ewalker544/libsvm-go)
 - [ad: automatic differentiation in go](https://github.com/xoba/ad)
 - [ode: ordinary differential equations](https://github.com/sj14/ode)
+- [go+montecarlo+concurrency](http://www.soroushjp.com/2015/02/07/go-concurrency-is-not-parallelism-real-world-lessons-with-monte-carlo-simulations/)
 
 ## tools
 
