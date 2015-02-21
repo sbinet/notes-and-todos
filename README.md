@@ -163,6 +163,7 @@ notes about stuff
 - [or-tools: python linear solver](https://code.google.com/p/or-tools/)
 - [data mining book](http://www.mmds.org/#ver21)
 - [go-cool: compiler for cool - coursera compiler lectures](https://github.com/zellyn/gocool)
+- [atlas s/w openmp tuto](https://indico.cern.ch/event/352961/other-view?view=standard)
 
 ## go libs
 
