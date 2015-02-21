@@ -121,6 +121,7 @@ notes about stuff
 - [docker-volumes: manage docker volumes](https://github.com/cpuguy83/docker-volumes)
 - [dev: overlay docker containers for development](https://github.com/Xe/dev)
 - [docker-bastion: ssh access to containers](https://github.com/gophergala/docker-bastion)
+- [docker + jenkins](http://www.catosplace.net/blog/2015/02/11/running-jenkins-in-docker-containers/)
 
 ## parsers
 
