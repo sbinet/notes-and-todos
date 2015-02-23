@@ -274,6 +274,7 @@ notes about stuff
 - [websocketd](http://websocketd.com/)
 - [syncthing: file sync](https://github.com/syncthing/syncthing)
 - [pong w/ opengl](https://github.com/LaurenceGA/Pong)
+- [go-react-example (js+duktape)](https://github.com/olebedev/go-react-example)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
