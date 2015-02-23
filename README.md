@@ -272,6 +272,7 @@ notes about stuff
 - [go datastructures](https://github.com/Workiva/go-datastructures)
 - [gometalinter](https://github.com/alecthomas/gometalinter)
 - [websocketd](http://websocketd.com/)
+- [syncthing: file sync](https://github.com/syncthing/syncthing)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
