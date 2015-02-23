@@ -276,6 +276,7 @@ notes about stuff
 - [syncthing: file sync](https://github.com/syncthing/syncthing)
 - [pong w/ opengl](https://github.com/LaurenceGA/Pong)
 - [go-react-example (js+duktape)](https://github.com/olebedev/go-react-example)
+- [datagen](https://github.com/aybabtme/datagen)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
