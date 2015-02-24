@@ -297,6 +297,7 @@ notes about stuff
 - [ad: automatic differentiation in go](https://github.com/xoba/ad)
 - [ode: ordinary differential equations](https://github.com/sj14/ode)
 - [go+montecarlo+concurrency](http://www.soroushjp.com/2015/02/07/go-concurrency-is-not-parallelism-real-world-lessons-with-monte-carlo-simulations/)
+- [blond: c++/python lib for Beam Longitudinal Dynamics code](http://blond.web.cern.ch/)
 
 ## tools
 
