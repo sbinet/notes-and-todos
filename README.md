@@ -277,6 +277,7 @@ notes about stuff
 - [pong w/ opengl](https://github.com/LaurenceGA/Pong)
 - [go-react-example (js+duktape)](https://github.com/olebedev/go-react-example)
 - [datagen](https://github.com/aybabtme/datagen)
+- [runlocal: run remote commands locally over ssh-x11](https://github.com/pwaller/runlocal)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
