@@ -316,6 +316,7 @@ notes about stuff
 - [go ssh](http://kukuruku.co/hub/golang/ssh-commands-execution-on-hundreds-of-servers-via-go)
 - [programming problems in go](https://github.com/PrikPrak/Go_101)
 - [distributed computing with mesos+go](http://blog.fmpwizard.com/blog/web-crawler-using-mesos-and-golang)
+- [go-runtime process walkthrough](http://blog.matttproud.com/2015/02/exploring-gos-runtime-how-process.html)
 
 ## games/ai
 
