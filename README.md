@@ -278,6 +278,7 @@ notes about stuff
 - [go-react-example (js+duktape)](https://github.com/olebedev/go-react-example)
 - [datagen](https://github.com/aybabtme/datagen)
 - [runlocal: run remote commands locally over ssh-x11](https://github.com/pwaller/runlocal)
+- [go-package-store: update packages in GOPATH](https://github.com/shurcooL/Go-Package-Store)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
