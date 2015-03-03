@@ -279,6 +279,8 @@ notes about stuff
 - [datagen](https://github.com/aybabtme/datagen)
 - [runlocal: run remote commands locally over ssh-x11](https://github.com/pwaller/runlocal)
 - [go-package-store: update packages in GOPATH](https://github.com/shurcooL/Go-Package-Store)
+- [bampf: 3D arcade-style game (opengl+openal)](https://github.com/gazed/bampf)
+- [vu: Virtual Universe](https://github.com/gazed/vu)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
