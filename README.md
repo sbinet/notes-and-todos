@@ -281,6 +281,7 @@ notes about stuff
 - [go-package-store: update packages in GOPATH](https://github.com/shurcooL/Go-Package-Store)
 - [bampf: 3D arcade-style game (opengl+openal)](https://github.com/gazed/bampf)
 - [vu: Virtual Universe](https://github.com/gazed/vu)
+- [cc: a C compiler in Go](https://github.com/andrewchambers/cc)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
