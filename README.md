@@ -167,6 +167,7 @@ notes about stuff
 - [go-cool: compiler for cool - coursera compiler lectures](https://github.com/zellyn/gocool)
 - [atlas s/w openmp tuto](https://indico.cern.ch/event/352961/other-view?view=standard)
 - [go-algorithms](https://github.com/arnauddri/algorithms)
+- [linux perf](http://www.brendangregg.com/perf.html)
 
 ## go libs
 
