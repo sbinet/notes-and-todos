@@ -55,6 +55,7 @@ notes about stuff
 - [goline](https://github.com/nemith/go-goline)
 - [python prompt toolkit](https://github.com/jonathanslenders/python-prompt-toolkit)
 - [bowery/prompt](https://github.com/Bowery/prompt)
+- [termui: termbox-based tui](https://github.com/gizak/termui)
 
 ## build systems
 
