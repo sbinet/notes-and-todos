@@ -37,6 +37,7 @@ notes about stuff
 - [asm: jit'ing asm](https://github.com/crawshaw/asm)
 - [gothon: python in go](https://github.com/flowlo/gothon)
 - [goconsole: an interactive go interpreter](https://github.com/davidthomas426/goconsole)
+- [jvm.go: JVM in Go](https://github.com/zxh0/jvm.go)
 
 ## go-bric
 
