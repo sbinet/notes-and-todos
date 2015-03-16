@@ -285,6 +285,7 @@ notes about stuff
 - [bampf: 3D arcade-style game (opengl+openal)](https://github.com/gazed/bampf)
 - [vu: Virtual Universe](https://github.com/gazed/vu)
 - [cc: a C compiler in Go](https://github.com/andrewchambers/cc)
+- [lz4: pure-go LZ4 (de)compressor](https://github.com/pierrec/lz4)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
