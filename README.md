@@ -308,6 +308,7 @@ notes about stuff
 - [go+montecarlo+concurrency](http://www.soroushjp.com/2015/02/07/go-concurrency-is-not-parallelism-real-world-lessons-with-monte-carlo-simulations/)
 - [blond: c++/python lib for Beam Longitudinal Dynamics code](http://blond.web.cern.ch/)
 - [geoindex: k-mean clusters](https://github.com/hailocab/go-geoindex)
+- [narray: float64-ndarray](https://github.com/akualab/narray)
 
 ## tools
 
