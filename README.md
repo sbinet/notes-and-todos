@@ -92,6 +92,7 @@ notes about stuff
 - [msg: codec generator for msgpack](https://github.com/philhofer/msgp)
 - [serialization benchmarks](https://github.com/alecthomas/go_serialization_benchmarks)
 - [struc: pack/unpack types like encoding/binary](https://github.com/lunixbochs/struc)
+- [goavro: pure-Go library (de|en)coding Avro](https://github.com/linkedin/goavro)
 
 ## checkpointing, VMs, containers
 
