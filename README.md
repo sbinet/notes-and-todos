@@ -312,6 +312,7 @@ notes about stuff
 - [blond: c++/python lib for Beam Longitudinal Dynamics code](http://blond.web.cern.ch/)
 - [geoindex: k-mean clusters](https://github.com/hailocab/go-geoindex)
 - [narray: float64-ndarray](https://github.com/akualab/narray)
+- [lp: linear programming (simplex)](https://github.com/jvlmdr/golp)
 
 ## tools
 
