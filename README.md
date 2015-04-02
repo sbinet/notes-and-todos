@@ -291,6 +291,7 @@ notes about stuff
 - [pry: go REPL](https://github.com/d4l3k/go-pry)
 - [buffer: composable buffers](https://github.com/djherbis/buffer)
 - [nio: concurrent buffered i/o](https://github.com/djherbis/nio)
+- [pcgr: PCG random number generator](https://github.com/dgryski/go-pcgr)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
