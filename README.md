@@ -289,6 +289,7 @@ notes about stuff
 - [lz4: pure-go LZ4 (de)compressor](https://github.com/pierrec/lz4)
 - [cluefs: a FUSE-based fs to monitor I/O](https://github.com/airnandez/cluefs)
 - [pry: go REPL](https://github.com/d4l3k/go-pry)
+- [buffers: composable buffers](https://github.com/djherbis/buffer)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
