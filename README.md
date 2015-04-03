@@ -292,6 +292,7 @@ notes about stuff
 - [buffer: composable buffers](https://github.com/djherbis/buffer)
 - [nio: concurrent buffered i/o](https://github.com/djherbis/nio)
 - [pcgr: PCG random number generator](https://github.com/dgryski/go-pcgr)
+- [ergo: errors with stack+context](https://github.com/gima/ergo)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
