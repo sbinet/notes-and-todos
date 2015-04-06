@@ -294,6 +294,7 @@ notes about stuff
 - [pcgr: PCG random number generator](https://github.com/dgryski/go-pcgr)
 - [ergo: errors with stack+context](https://github.com/gima/ergo)
 - [monkey: monkey-patching in go](http://bouk.co/blog/monkey-patching-in-go/)
+- [llgoi: go interpreter on top of llgo](http://llvm.org/klaus/llgo/tree/master/cmd/llgoi)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
