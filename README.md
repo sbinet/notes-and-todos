@@ -38,6 +38,7 @@ notes about stuff
 - [gothon: python in go](https://github.com/flowlo/gothon)
 - [goconsole: an interactive go interpreter](https://github.com/davidthomas426/goconsole)
 - [jvm.go: JVM in Go](https://github.com/zxh0/jvm.go)
+- [bpfjit: JIT for Berkeley Packet Filter](https://github.com/alnsn/bpfjit)
 
 ## go-bric
 
