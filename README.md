@@ -296,6 +296,7 @@ notes about stuff
 - [ergo: errors with stack+context](https://github.com/gima/ergo)
 - [monkey: monkey-patching in go](http://bouk.co/blog/monkey-patching-in-go/)
 - [llgoi: go interpreter on top of llgo](http://llvm.org/klaus/llgo/tree/master/cmd/llgoi)
+- [thrust: UI based on chromium/blink/v8](https://github.com/miketheprogrammer/go-thrust)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
