@@ -39,6 +39,7 @@ notes about stuff
 - [goconsole: an interactive go interpreter](https://github.com/davidthomas426/goconsole)
 - [jvm.go: JVM in Go](https://github.com/zxh0/jvm.go)
 - [bpfjit: JIT for Berkeley Packet Filter](https://github.com/alnsn/bpfjit)
+- [vident: an interpreter in Go (tuto)](https://github.com/felixangell/vident)
 
 ## go-bric
 
