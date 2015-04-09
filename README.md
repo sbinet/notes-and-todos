@@ -9,7 +9,7 @@ notes about stuff
 ## VMs implementations
 
 - [ktap](https://github.com/ktap/ktap)
-- [agora](https://github.com/PuerkitoBio/agora)
+- [agora](https://github.com/PuerkitoBio/agora)go
 - [potion](https://github.com/perl11/potion/blob/master/core/vm.c)
 - [lua](http://www.lua.org/source/5.2/lopcodes.h.html)
 - [lua-5.0](http://www.lua.org/doc/jucs05.pdf)
@@ -298,6 +298,7 @@ notes about stuff
 - [monkey: monkey-patching in go](http://bouk.co/blog/monkey-patching-in-go/)
 - [llgoi: go interpreter on top of llgo](http://llvm.org/klaus/llgo/tree/master/cmd/llgoi)
 - [thrust: UI based on chromium/blink/v8](https://github.com/miketheprogrammer/go-thrust)
+- [gorewrite: AST rewrite](https://github.com/tsuna/gorewrite)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
