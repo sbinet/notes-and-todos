@@ -128,6 +128,7 @@ notes about stuff
 - [docker + jenkins](http://www.catosplace.net/blog/2015/02/11/running-jenkins-in-docker-containers/)
 - [go+mesos](http://java.dzone.com/articles/building-massively-scalable)
 - [docker + gui/tui apps](https://blog.jessfraz.com/posts/docker-containers-on-the-desktop.html)
+- [dockerception: dockers building dockers](https://github.com/jamiemccrindle/dockerception)
 
 ## parsers
 
