@@ -327,6 +327,7 @@ notes about stuff
 ## h5/ui
 - [go-polymer](https://github.com/treeder/go-polymer)
 - [thrust: UI based on chromium/blink/v8](https://github.com/miketheprogrammer/go-thrust)
+- [seven5](http://seven5.github.io)
 
 ## tools
 
