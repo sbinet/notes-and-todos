@@ -298,7 +298,6 @@ notes about stuff
 - [ergo: errors with stack+context](https://github.com/gima/ergo)
 - [monkey: monkey-patching in go](http://bouk.co/blog/monkey-patching-in-go/)
 - [llgoi: go interpreter on top of llgo](http://llvm.org/klaus/llgo/tree/master/cmd/llgoi)
-- [thrust: UI based on chromium/blink/v8](https://github.com/miketheprogrammer/go-thrust)
 - [gorewrite: AST rewrite](https://github.com/tsuna/gorewrite)
 
 ## sci-libs
@@ -324,6 +323,10 @@ notes about stuff
 - [geoindex: k-mean clusters](https://github.com/hailocab/go-geoindex)
 - [narray: float64-ndarray](https://github.com/akualab/narray)
 - [lp: linear programming (simplex)](https://github.com/jvlmdr/golp)
+
+## h5/ui
+- [go-polymer](https://github.com/treeder/go-polymer)
+- [thrust: UI based on chromium/blink/v8](https://github.com/miketheprogrammer/go-thrust)
 
 ## tools
 
