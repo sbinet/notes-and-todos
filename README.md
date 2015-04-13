@@ -140,6 +140,7 @@ notes about stuff
 - [ebnf2y](https://github.com/cznic/ebnf2y)
 - [ebnfutil](https://github.com/cznic/ebnfutil)
 - [walkngo](https://github.com/raff/walkngo)
+- [pigeon: generates parsers from PEG grammar](https://github.com/PuerkitoBio/pigeon)
 
 ## C/S
 
