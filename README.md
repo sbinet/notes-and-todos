@@ -301,6 +301,7 @@ notes about stuff
 - [llgoi: go interpreter on top of llgo](http://llvm.org/klaus/llgo/tree/master/cmd/llgoi)
 - [gorewrite: AST rewrite](https://github.com/tsuna/gorewrite)
 - [parallel: OpenMP-like](https://github.com/wangkuiyi/parallel)
+- [shellwords: parse lines as shell words](https://github.com/mattn/go-shellwords)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
