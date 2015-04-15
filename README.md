@@ -300,6 +300,7 @@ notes about stuff
 - [monkey: monkey-patching in go](http://bouk.co/blog/monkey-patching-in-go/)
 - [llgoi: go interpreter on top of llgo](http://llvm.org/klaus/llgo/tree/master/cmd/llgoi)
 - [gorewrite: AST rewrite](https://github.com/tsuna/gorewrite)
+- [parallel: OpenMP-like](https://github.com/wangkuiyi/parallel)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
