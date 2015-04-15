@@ -302,6 +302,7 @@ notes about stuff
 - [gorewrite: AST rewrite](https://github.com/tsuna/gorewrite)
 - [parallel: OpenMP-like](https://github.com/wangkuiyi/parallel)
 - [shellwords: parse lines as shell words](https://github.com/mattn/go-shellwords)
+- [shlex: lexing shell-like lines](https://github.com/flynn/go-shlex)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
