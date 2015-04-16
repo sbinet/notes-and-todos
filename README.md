@@ -303,6 +303,7 @@ notes about stuff
 - [parallel: OpenMP-like](https://github.com/wangkuiyi/parallel)
 - [shellwords: parse lines as shell words](https://github.com/mattn/go-shellwords)
 - [shlex: lexing shell-like lines](https://github.com/flynn/go-shlex)
+- [killable: actors, pipelines and graph of (killable) goroutines](https://github.com/icholy/killable)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
