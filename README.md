@@ -304,6 +304,7 @@ notes about stuff
 - [shellwords: parse lines as shell words](https://github.com/mattn/go-shellwords)
 - [shlex: lexing shell-like lines](https://github.com/flynn/go-shlex)
 - [killable: actors, pipelines and graph of (killable) goroutines](https://github.com/icholy/killable)
+- [freehold: open-source Dropbox-like](http://tshannon.bitbucket.org/freehold/)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
