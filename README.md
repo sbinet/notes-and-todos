@@ -307,6 +307,7 @@ notes about stuff
 - [freehold: open-source Dropbox-like](http://tshannon.bitbucket.org/freehold/)
 - [gzran: gzip indexer for random access into compressed files](https://github.com/coreos/gzran)
 - [tar-split: expose archive/tar TAR raw bytes](https://github.com/vbatts/tar-split)
+- [go-rat: tar extension for random access](https://github.com/mcuadros/go-rat)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
