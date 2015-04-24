@@ -305,6 +305,8 @@ notes about stuff
 - [shlex: lexing shell-like lines](https://github.com/flynn/go-shlex)
 - [killable: actors, pipelines and graph of (killable) goroutines](https://github.com/icholy/killable)
 - [freehold: open-source Dropbox-like](http://tshannon.bitbucket.org/freehold/)
+- [gzran: gzip indexer for random access into compressed files](https://github.com/coreos/gzran)
+- [tar-split: expose archive/tar TAR raw bytes](https://github.com/vbatts/tar-split)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
