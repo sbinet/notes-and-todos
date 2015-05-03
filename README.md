@@ -141,6 +141,7 @@ notes about stuff
 - [ebnfutil](https://github.com/cznic/ebnfutil)
 - [walkngo](https://github.com/raff/walkngo)
 - [pigeon: generates parsers from PEG grammar](https://github.com/PuerkitoBio/pigeon)
+- [decomp: decompile LLVM->Go](https://github.com/decomp)
 
 ## C/S
 
