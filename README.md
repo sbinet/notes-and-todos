@@ -311,6 +311,7 @@ notes about stuff
 - [go-rat: tar extension for random access](https://github.com/mcuadros/go-rat)
 - [pingo: go plugins](https://github.com/dullgiulio/pingo)
 - [sigil: standalone string processor and interpolator](https://github.com/gliderlabs/sigil)
+- [go-hardware: directory of hw related libs](https://github.com/rakyll/go-hardware)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
