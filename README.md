@@ -312,6 +312,7 @@ notes about stuff
 - [pingo: go plugins](https://github.com/dullgiulio/pingo)
 - [sigil: standalone string processor and interpolator](https://github.com/gliderlabs/sigil)
 - [go-hardware: directory of hw related libs](https://github.com/rakyll/go-hardware)
+- [melody: minimalist websocket fwk](https://github.com/olahol/melody)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
