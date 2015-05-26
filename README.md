@@ -310,6 +310,7 @@ notes about stuff
 - [tar-split: expose archive/tar TAR raw bytes](https://github.com/vbatts/tar-split)
 - [go-rat: tar extension for random access](https://github.com/mcuadros/go-rat)
 - [pingo: go plugins](https://github.com/dullgiulio/pingo)
+- [pie: go plugins](https://github.com/natefinch/pie)
 - [sigil: standalone string processor and interpolator](https://github.com/gliderlabs/sigil)
 - [go-hardware: directory of hw related libs](https://github.com/rakyll/go-hardware)
 - [melody: minimalist websocket fwk](https://github.com/olahol/melody)
