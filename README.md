@@ -314,6 +314,7 @@ notes about stuff
 - [sigil: standalone string processor and interpolator](https://github.com/gliderlabs/sigil)
 - [go-hardware: directory of hw related libs](https://github.com/rakyll/go-hardware)
 - [melody: minimalist websocket fwk](https://github.com/olahol/melody)
+- [xmlgen](https://github.com/dutchcoders/xmlgen)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
