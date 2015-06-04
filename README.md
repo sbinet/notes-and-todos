@@ -360,6 +360,7 @@ notes about stuff
 - [programming problems in go](https://github.com/PrikPrak/Go_101)
 - [distributed computing with mesos+go](http://blog.fmpwizard.com/blog/web-crawler-using-mesos-and-golang)
 - [go-runtime process walkthrough](http://blog.matttproud.com/2015/02/exploring-gos-runtime-how-process.html)
+- [go concurrency primitives from C](https://github.com/fiorix/gocp)
 
 ## games/ai
 
