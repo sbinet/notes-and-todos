@@ -316,6 +316,7 @@ notes about stuff
 - [go-hardware: directory of hw related libs](https://github.com/rakyll/go-hardware)
 - [melody: minimalist websocket fwk](https://github.com/olahol/melody)
 - [xmlgen](https://github.com/dutchcoders/xmlgen)
+- [dupl: source code duplication finder](https://github.com/mibk/dupl)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
