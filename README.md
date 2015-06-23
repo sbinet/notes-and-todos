@@ -317,6 +317,7 @@ notes about stuff
 - [melody: minimalist websocket fwk](https://github.com/olahol/melody)
 - [xmlgen](https://github.com/dutchcoders/xmlgen)
 - [dupl: source code duplication finder](https://github.com/mibk/dupl)
+- [gocp: Go concurrency primitives exposed to C/C++](https://github.com/fiorix/gocp)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
