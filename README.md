@@ -342,6 +342,7 @@ notes about stuff
 - [geoindex: k-mean clusters](https://github.com/hailocab/go-geoindex)
 - [narray: float64-ndarray](https://github.com/akualab/narray)
 - [lp: linear programming (simplex)](https://github.com/jvlmdr/golp)
+- [golinear: bindings to liblinear (SVM)](https://github.com/danieldk/golinear)
 
 ## h5/ui
 - [go-polymer](https://github.com/treeder/go-polymer)
