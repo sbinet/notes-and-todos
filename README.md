@@ -318,6 +318,7 @@ notes about stuff
 - [xmlgen](https://github.com/dutchcoders/xmlgen)
 - [dupl: source code duplication finder](https://github.com/mibk/dupl)
 - [gocp: Go concurrency primitives exposed to C/C++](https://github.com/fiorix/gocp)
+- [deputy: wrapper around os/exec.Command](https://github.com/juju/deputy)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
