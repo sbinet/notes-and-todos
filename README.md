@@ -319,6 +319,7 @@ notes about stuff
 - [dupl: source code duplication finder](https://github.com/mibk/dupl)
 - [gocp: Go concurrency primitives exposed to C/C++](https://github.com/fiorix/gocp)
 - [deputy: wrapper around os/exec.Command](https://github.com/juju/deputy)
+- [garbler: generate passwords](https://github.com/michaelbironneau/garbler)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
