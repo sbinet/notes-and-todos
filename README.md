@@ -40,6 +40,7 @@ notes about stuff
 - [jvm.go: JVM in Go](https://github.com/zxh0/jvm.go)
 - [bpfjit: JIT for Berkeley Packet Filter](https://github.com/alnsn/bpfjit)
 - [vident: an interpreter in Go (tuto)](https://github.com/felixangell/vident)
+- [ark: a compiled systems programming language written in Go using the LLVM framework](https://github.com/ark-lang/ark)
 
 ## go-bric
 
