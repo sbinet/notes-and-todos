@@ -96,6 +96,7 @@ notes about stuff
 - [serialization benchmarks](https://github.com/alecthomas/go_serialization_benchmarks)
 - [struc: pack/unpack types like encoding/binary](https://github.com/lunixbochs/struc)
 - [goavro: pure-Go library (de|en)coding Avro](https://github.com/linkedin/goavro)
+- [xz: pure-Go library for decoding xz streams and files](https://github.com/xi2/xz)
 
 ## checkpointing, VMs, containers
 
