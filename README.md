@@ -348,6 +348,7 @@ notes about stuff
 - [narray: float64-ndarray](https://github.com/akualab/narray)
 - [lp: linear programming (simplex)](https://github.com/jvlmdr/golp)
 - [golinear: bindings to liblinear (SVM)](https://github.com/danieldk/golinear)
+- [goml: golang machine learning](https://github.com/cdipaolo/goml)
 
 ## h5/ui
 - [go-polymer](https://github.com/treeder/go-polymer)
