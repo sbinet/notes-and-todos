@@ -323,6 +323,7 @@ notes about stuff
 - [gocp: Go concurrency primitives exposed to C/C++](https://github.com/fiorix/gocp)
 - [deputy: wrapper around os/exec.Command](https://github.com/juju/deputy)
 - [garbler: generate passwords](https://github.com/michaelbironneau/garbler)
+- [taowm: a tiling X11-window manager in Go](https://github.com/nigeltao/taowm)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
