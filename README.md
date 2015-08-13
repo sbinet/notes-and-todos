@@ -324,6 +324,7 @@ notes about stuff
 - [deputy: wrapper around os/exec.Command](https://github.com/juju/deputy)
 - [garbler: generate passwords](https://github.com/michaelbironneau/garbler)
 - [taowm: a tiling X11-window manager in Go](https://github.com/nigeltao/taowm)
+- [streamtools: a graphical toolkit to deal with streams of data](http://blog.nytlabs.com/streamtools/)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
