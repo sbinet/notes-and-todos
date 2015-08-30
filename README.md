@@ -325,6 +325,7 @@ notes about stuff
 - [garbler: generate passwords](https://github.com/michaelbironneau/garbler)
 - [taowm: a tiling X11-window manager in Go](https://github.com/nigeltao/taowm)
 - [streamtools: a graphical toolkit to deal with streams of data](http://blog.nytlabs.com/streamtools/)
+- [process: bkg+group-leader process mgmt](https://github.com/nightlyone/process)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
