@@ -98,6 +98,7 @@ notes about stuff
 - [goavro: pure-Go library (de|en)coding Avro](https://github.com/linkedin/goavro)
 - [xz: pure-Go library for decoding xz streams and files](https://github.com/xi2/xz)
 - [compress: SSE-optimized stdlib packages](https://github.com/klauspost/compress)
+- [cdb](https://github.com/colinmarc/cdb)
 
 ## checkpointing, VMs, containers
 
