@@ -99,6 +99,7 @@ notes about stuff
 - [xz: pure-Go library for decoding xz streams and files](https://github.com/xi2/xz)
 - [compress: SSE-optimized stdlib packages](https://github.com/klauspost/compress)
 - [cdb](https://github.com/colinmarc/cdb)
+- [decompilation for LLVM](https://github.com/decomp/decompilation)
 
 ## checkpointing, VMs, containers
 
