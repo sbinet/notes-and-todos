@@ -100,6 +100,7 @@ notes about stuff
 - [compress: SSE-optimized stdlib packages](https://github.com/klauspost/compress)
 - [cdb](https://github.com/colinmarc/cdb)
 - [decompilation for LLVM](https://github.com/decomp/decompilation)
+- [block-based compressor (like pytables?)](https://github.com/monkeybutter/goblock_compressor)
 
 ## checkpointing, VMs, containers
 
