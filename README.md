@@ -358,6 +358,7 @@ notes about stuff
 - [lp: linear programming (simplex)](https://github.com/jvlmdr/golp)
 - [golinear: bindings to liblinear (SVM)](https://github.com/danieldk/golinear)
 - [goml: golang machine learning](https://github.com/cdipaolo/goml)
+- [biblexer: a bibTeX lexer in Go](https://github.com/meling/biblexer)
 
 ## h5/ui
 - [go-polymer](https://github.com/treeder/go-polymer)
