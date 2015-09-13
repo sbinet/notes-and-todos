@@ -333,6 +333,7 @@ notes about stuff
 - [process: bkg+group-leader process mgmt](https://github.com/nightlyone/process)
 - [llir/llvm: pure Go library to process LLVM IR](https://github.com/llir/llvm)
 - [go-outdated: find outdated packages in GOPATH](https://github.com/firstrow/go-outdated)
+- [xsocket: os/exec over websockets](https://github.com/tidwall/xsocket)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
