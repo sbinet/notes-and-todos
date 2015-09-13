@@ -185,6 +185,7 @@ notes about stuff
 - [atlas s/w openmp tuto](https://indico.cern.ch/event/352961/other-view?view=standard)
 - [go-algorithms](https://github.com/arnauddri/algorithms)
 - [linux perf](http://www.brendangregg.com/perf.html)
+- [goweave: aspect oriented programming in Go](https://deferpanic.com/blog/compile-time-code-weaving-in-go)
 
 ## go libs
 
