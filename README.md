@@ -64,6 +64,7 @@ notes about stuff
 - [bowery/prompt](https://github.com/Bowery/prompt)
 - [termui: termbox-based tui](https://github.com/gizak/termui)
 - [termloop: terminal-based game engine (on top of termbox)](https://github.com/JoelOtter/termloop)
+- [chzyer/readline: pure-Go readline implementation (MIT)](https://github.com/chzyer/readline)
 
 ## build systems
 
