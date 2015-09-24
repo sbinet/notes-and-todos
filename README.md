@@ -43,6 +43,7 @@ notes about stuff
 - [bpfjit: JIT for Berkeley Packet Filter](https://github.com/alnsn/bpfjit)
 - [vident: an interpreter in Go (tuto)](https://github.com/felixangell/vident)
 - [ark: a compiled systems programming language written in Go using the LLVM framework](https://github.com/ark-lang/ark)
+- [rthornton128/vm: a Go VM for teaching](https://github.com/rthornton128/vm)
 
 ## go-bric
 
