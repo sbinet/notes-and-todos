@@ -6,6 +6,7 @@ notes about stuff
 - [go patterns](https://sites.google.com/site/gopatterns/)
 - [go concurrency](http://www.nada.kth.se/~snilsson/concurrency)
 - [learning CS w/ Go](https://github.com/gyuho/learn#contents)
+- [go-style concurrency in C: libmill](http://libmill.org/)
 
 ## VMs implementations
 
