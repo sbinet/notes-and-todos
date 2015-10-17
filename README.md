@@ -370,6 +370,7 @@ notes about stuff
 - [biblexer: a bibTeX lexer in Go](https://github.com/meling/biblexer)
 - [machine learning libraries in Go](http://www.fodop.com/ar-1002)
 - [krisalder/ml: machine learning toolkit](https://github.com/krisalder/ml)
+- [stevenmiller888/go-mind: machine learning library](https://github.com/stevenmiller888/go-mind)
 
 ## h5/ui
 - [go-polymer](https://github.com/treeder/go-polymer)
