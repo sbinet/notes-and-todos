@@ -107,6 +107,7 @@ notes about stuff
 - [cdb](https://github.com/colinmarc/cdb)
 - [decompilation for LLVM](https://github.com/decomp/decompilation)
 - [block-based compressor (like pytables?)](https://github.com/monkeybutter/goblock_compressor)
+- [capnproto2 generator for go](https://github.com/zombiezen/go-capnproto2/)
 
 ## checkpointing, VMs, containers
 
