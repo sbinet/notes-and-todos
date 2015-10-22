@@ -377,6 +377,8 @@ notes about stuff
 - [go-polymer](https://github.com/treeder/go-polymer)
 - [thrust: UI based on chromium/blink/v8](https://github.com/miketheprogrammer/go-thrust)
 - [seven5](http://seven5.github.io)
+- [godesktopgui: a go-html5-webapp example](https://github.com/peterhoward42/godesktopgui)
+- [gobenchui: a go+html webapp + highcharts.js](https://github.com/divan/gobenchui)
 
 ## tools
 
