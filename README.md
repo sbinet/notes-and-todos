@@ -343,6 +343,7 @@ notes about stuff
 - [check, aligncheck, pahole-like, ...: set of utilities to check Go code](https://github.com/opennota/check)
 - [maligned: tool to detect holes in structs (like pahole)](https://github.com/mdempsky/maligned)
 - [gensimd: generate SIMD-ized packages](https://github.com/bjwbell/gensimd)
+- [xorshift: a fast PRNG](https://github.com/lazybeaver/xorshift)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
