@@ -108,6 +108,7 @@ notes about stuff
 - [decompilation for LLVM](https://github.com/decomp/decompilation)
 - [block-based compressor (like pytables?)](https://github.com/monkeybutter/goblock_compressor)
 - [capnproto2 generator for go](https://github.com/zombiezen/go-capnproto2/)
+- [shuffle: a blosc-like shuffling package](https://github.com/opennota/shuffle)
 
 ## checkpointing, VMs, containers
 
