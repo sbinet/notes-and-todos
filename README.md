@@ -109,6 +109,7 @@ notes about stuff
 - [block-based compressor (like pytables?)](https://github.com/monkeybutter/goblock_compressor)
 - [capnproto2 generator for go](https://github.com/zombiezen/go-capnproto2/)
 - [shuffle: a blosc-like shuffling package](https://github.com/opennota/shuffle)
+- [bzip2 enc/dec in Go](https://godoc.org/github.com/dsnet/compress/bzip2)
 
 ## checkpointing, VMs, containers
 
