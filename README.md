@@ -347,7 +347,7 @@ notes about stuff
 - [gensimd: generate SIMD-ized packages](https://github.com/bjwbell/gensimd)
 - [xorshift: a fast PRNG](https://github.com/lazybeaver/xorshift)
 - [wm: a terminal based window manager](https://github.com/cznic/wm)
-- [readhead](https://github.com/klauspost/readahead)
+- [readahead](https://github.com/klauspost/readahead)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
