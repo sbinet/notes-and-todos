@@ -346,6 +346,7 @@ notes about stuff
 - [maligned: tool to detect holes in structs (like pahole)](https://github.com/mdempsky/maligned)
 - [gensimd: generate SIMD-ized packages](https://github.com/bjwbell/gensimd)
 - [xorshift: a fast PRNG](https://github.com/lazybeaver/xorshift)
+- [wm: a terminal based window manager](https://github.com/cznic/wm)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
