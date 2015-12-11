@@ -66,6 +66,7 @@ notes about stuff
 - [termui: termbox-based tui](https://github.com/gizak/termui)
 - [termloop: terminal-based game engine (on top of termbox)](https://github.com/JoelOtter/termloop)
 - [chzyer/readline: pure-Go readline implementation (MIT)](https://github.com/chzyer/readline)
+- [gotty: share your terminal as a web-app](https://github.com/yudai/gotty)
 
 ## build systems
 
