@@ -111,6 +111,7 @@ notes about stuff
 - [capnproto2 generator for go](https://github.com/zombiezen/go-capnproto2/)
 - [shuffle: a blosc-like shuffling package](https://github.com/opennota/shuffle)
 - [bzip2 enc/dec in Go](https://godoc.org/github.com/dsnet/compress/bzip2)
+- [restruct: rich binary (de)serialization](https://github.com/go-restruct/restruct)
 
 ## checkpointing, VMs, containers
 
