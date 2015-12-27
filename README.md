@@ -353,6 +353,7 @@ notes about stuff
 - [xorshift: a fast PRNG](https://github.com/lazybeaver/xorshift)
 - [wm: a terminal based window manager](https://github.com/cznic/wm)
 - [readahead](https://github.com/klauspost/readahead)
+- [interfacer: a linter that suggests interface types](https://github.com/mvdan/interfacer)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
