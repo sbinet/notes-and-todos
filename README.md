@@ -196,7 +196,8 @@ notes about stuff
 - [linux perf](http://www.brendangregg.com/perf.html)
 - [goweave: aspect oriented programming in Go](https://deferpanic.com/blog/compile-time-code-weaving-in-go)
 - [go-neural](https://github.com/NOX73/go-neural)
-- [drago: feed fwd ann](https://github.com/aaparella/Drago)
+- [drago: feed fwd NN](https://github.com/aaparella/Drago)
+- [NN & deep learning book](http://neuralnetworksanddeeplearning.com/)
 
 ## go libs
 
