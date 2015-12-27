@@ -195,6 +195,8 @@ notes about stuff
 - [go-algorithms](https://github.com/arnauddri/algorithms)
 - [linux perf](http://www.brendangregg.com/perf.html)
 - [goweave: aspect oriented programming in Go](https://deferpanic.com/blog/compile-time-code-weaving-in-go)
+- [go-neural](https://github.com/NOX73/go-neural)
+- [drago: feed fwd ann](https://github.com/aaparella/Drago)
 
 ## go libs
 
