@@ -45,6 +45,7 @@ notes about stuff
 - [vident: an interpreter in Go (tuto)](https://github.com/felixangell/vident)
 - [ark: a compiled systems programming language written in Go using the LLVM framework](https://github.com/ark-lang/ark)
 - [rthornton128/vm: a Go VM for teaching](https://github.com/rthornton128/vm)
+- [zygomys: embedded scripting language for Go](https://github.com/glycerine/zygomys)
 
 ## go-bric
 
