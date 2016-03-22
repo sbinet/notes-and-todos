@@ -149,6 +149,7 @@ notes about stuff
 - [docker + gui/tui apps](https://blog.jessfraz.com/posts/docker-containers-on-the-desktop.html)
 - [dockerception: dockers building dockers](https://github.com/jamiemccrindle/dockerception)
 - [images: vm/dkr-images manager](https://github.com/fatih/images)
+- [libretto: create VMs from Go](https://github.com/apcera/libretto)
 
 ## parsers
 
