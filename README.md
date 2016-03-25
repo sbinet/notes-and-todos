@@ -358,6 +358,7 @@ notes about stuff
 - [readahead](https://github.com/klauspost/readahead)
 - [interfacer: a linter that suggests interface types](https://github.com/mvdan/interfacer)
 - [hashicorp/go-plugin: Go plugins over RPC](https://github.com/hashicorp/go-plugin)
+- [go-structlayout: pahole,maligned-like tool to display structs layouts](https://github.com/dominikh/go-structlayout)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
