@@ -360,6 +360,7 @@ notes about stuff
 - [hashicorp/go-plugin: Go plugins over RPC](https://github.com/hashicorp/go-plugin)
 - [go-structlayout: pahole,maligned-like tool to display structs layouts](https://github.com/dominikh/go-structlayout)
 - [depscheck: analyze packages for unwarranted dependencies](https://github.com/divan/depscheck)
+- [stm: software transactional memory in Go](https://github.com/lukechampine/stm)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
