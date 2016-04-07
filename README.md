@@ -1,7 +1,11 @@
 notes-and-todos
 ===============
 
-notes about stuff
+## meta-go
+- [awesome-go](http://0x434d53.github.io/awesome-go/)
+- [libs.club/go](http://libs.club/golang/)
+
+## notes about stuff
 
 - [go patterns](https://sites.google.com/site/gopatterns/)
 - [go concurrency](http://www.nada.kth.se/~snilsson/concurrency)
