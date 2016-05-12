@@ -366,6 +366,7 @@ notes-and-todos
 - [depscheck: analyze packages for unwarranted dependencies](https://github.com/divan/depscheck)
 - [stm: software transactional memory in Go](https://github.com/lukechampine/stm)
 - [gam: Akka actors in Go](https://github.com/rogeralsing/gam)
+- [POSIX semaphores in Go](https://github.com/shubhros/drunkendeluge/blob/master/semaphore/semaphore.go)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
