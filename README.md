@@ -166,6 +166,7 @@ notes-and-todos
 - [walkngo](https://github.com/raff/walkngo)
 - [pigeon: generates parsers from PEG grammar](https://github.com/PuerkitoBio/pigeon)
 - [decomp: decompile LLVM->Go](https://github.com/decomp)
+- [sh: a shell parser and formatter in Go](https://github.com/mvdan/sh)
 
 ## C/S
 
