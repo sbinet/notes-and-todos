@@ -369,6 +369,7 @@ notes-and-todos
 - [gam: Akka actors in Go](https://github.com/rogeralsing/gam)
 - [POSIX semaphores in Go](https://github.com/shubhros/drunkendeluge/blob/master/semaphore/semaphore.go)
 - [goit/devices: devices for IoT](https://github.com/goiot/devices)
+- [gx: a package management tool](https://github.com/whyrusleeping/gx)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
