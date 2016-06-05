@@ -368,6 +368,7 @@ notes-and-todos
 - [stm: software transactional memory in Go](https://github.com/lukechampine/stm)
 - [gam: Akka actors in Go](https://github.com/rogeralsing/gam)
 - [POSIX semaphores in Go](https://github.com/shubhros/drunkendeluge/blob/master/semaphore/semaphore.go)
+- [goit/devices: devices for IoT](https://github.com/goiot/devices)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
