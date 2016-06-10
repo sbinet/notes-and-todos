@@ -371,6 +371,7 @@ notes-and-todos
 - [POSIX semaphores in Go](https://github.com/shubhros/drunkendeluge/blob/master/semaphore/semaphore.go)
 - [goit/devices: devices for IoT](https://github.com/goiot/devices)
 - [gx: a package management tool](https://github.com/whyrusleeping/gx)
+- [find: High-precision indoor positioning framework for most wifi-enabled devices](https://github.com/schollz/find)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
