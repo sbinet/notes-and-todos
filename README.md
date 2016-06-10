@@ -205,6 +205,7 @@ notes-and-todos
 - [go-neural](https://github.com/NOX73/go-neural)
 - [drago: feed fwd NN](https://github.com/aaparella/Drago)
 - [NN & deep learning book](http://neuralnetworksanddeeplearning.com/)
+- [super tiny compiler in Go](https://github.com/hazbo/the-super-tiny-compiler)
 
 ## go libs
 
