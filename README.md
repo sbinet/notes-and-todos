@@ -372,6 +372,7 @@ notes-and-todos
 - [goit/devices: devices for IoT](https://github.com/goiot/devices)
 - [gx: a package management tool](https://github.com/whyrusleeping/gx)
 - [find: High-precision indoor positioning framework for most wifi-enabled devices](https://github.com/schollz/find)
+- [watson: Go (golang) SDK for IBM Watson services](https://github.com/liviosoares/go-watson-sdk)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
