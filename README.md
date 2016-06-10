@@ -373,6 +373,7 @@ notes-and-todos
 - [gx: a package management tool](https://github.com/whyrusleeping/gx)
 - [find: High-precision indoor positioning framework for most wifi-enabled devices](https://github.com/schollz/find)
 - [watson: Go (golang) SDK for IBM Watson services](https://github.com/liviosoares/go-watson-sdk)
+- [katydid: a toolkit for trees](http://katydid.github.io/)
 
 ## sci-libs
 - [dataframe](https://github.com/akualab/dataframe)
