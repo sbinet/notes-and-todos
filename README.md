@@ -412,6 +412,11 @@ notes-and-todos
 - [godesktopgui: a go-html5-webapp example](https://github.com/peterhoward42/godesktopgui)
 - [gobenchui: a go+html webapp + highcharts.js](https://github.com/divan/gobenchui)
 
+## editors in Go
+- [driusan/de](https://github.com/driusan/de)
+- [eaburns/T](https://github.com/eaburns/T)
+- [sigint.ca/graphics/editor](https://github.com/jnjackins/graphics/tree/master/editor)
+
 ## tools
 
 - [github forks](http://forked.yannick.io/)
