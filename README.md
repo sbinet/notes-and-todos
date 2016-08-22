@@ -442,3 +442,6 @@ notes-and-todos
 
 - [guix](http://www.gnu.org/software/guix/manual/guix.pdf)
 
+## Quantum Computing
+
+- http://iqim.caltech.edu/
